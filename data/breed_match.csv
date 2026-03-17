@@ -1,0 +1,187 @@
+﻿annotation_folder,annotation_breed,cidd_breed,matched
+n02110627-affenpinscher,affenpinscher,Affenpinscher,yes
+n02088094-Afghan_hound,Afghan_hound,Afghan hound,yes
+n02116738-African_hunting_dog,African_hunting_dog,,no
+n02096051-Airedale,Airedale,Airedale terrier,partial
+n02093428-American_Staffordshire_terrier,American_Staffordshire_terrier,American Staffordshire terrier,yes
+n02107908-Appenzeller,Appenzeller,,no
+n02096294-Australian_terrier,Australian_terrier,Australian terrier,yes
+n02110806-basenji,basenji,Basenji,yes
+n02088238-basset,basset,Basset Griffon Vendeen,partial
+n02088364-beagle,beagle,Beagle,yes
+n02093647-Bedlington_terrier,Bedlington_terrier,Bedlington terrier,yes
+n02107683-Bernese_mountain_dog,Bernese_mountain_dog,Bernese mountain dog,yes
+n02089078-black-and-tan_coonhound,black-and-tan_coonhound,Black and tan coonhound,yes
+n02086646-Blenheim_spaniel,Blenheim_spaniel,,no
+n02088466-bloodhound,bloodhound,Bloodhound,yes
+n02088632-bluetick,bluetick,Bluetick coonhound,partial
+n02106166-Border_collie,Border_collie,Border collie,yes
+n02093754-Border_terrier,Border_terrier,Border terrier,yes
+n02090622-borzoi,borzoi,Borzoi,yes
+n02096585-Boston_bull,Boston_bull,,no
+n02106382-Bouvier_des_Flandres,Bouvier_des_Flandres,Bouvier des Flandres,yes
+n02108089-boxer,boxer,Boxer,yes
+n02112706-Brabancon_griffon,Brabancon_griffon,,no
+n02105251-briard,briard,Briard,yes
+n02101388-Brittany_spaniel,Brittany_spaniel,Brittany,partial
+n02108422-bull_mastiff,bull_mastiff,Bull mastiff,yes
+n02096177-cairn,cairn,Cairn terrier,partial
+n02113186-Cardigan,Cardigan,Cardigan Welsh Corgi,partial
+n02099849-Chesapeake_Bay_retriever,Chesapeake_Bay_retriever,Chesapeake Bay retriever,yes
+n02085620-Chihuahua,Chihuahua,Chihuahua,yes
+n02112137-chow,chow,Chow chow,partial
+n02101556-clumber,clumber,Clumber spaniel,partial
+n02102318-cocker_spaniel,cocker_spaniel,"Cocker spaniel, American",partial
+n02106030-collie,collie,Bearded collie,partial
+n02099429-curly-coated_retriever,curly-coated_retriever,Curly coated retriever,yes
+n02096437-Dandie_Dinmont,Dandie_Dinmont,Dandie Dinmont Terrier,partial
+n02115913-dhole,dhole,,no
+n02115641-dingo,dingo,,no
+n02107142-Doberman,Doberman,Doberman pinscher,partial
+n02089973-English_foxhound,English_foxhound,English foxhound,yes
+n02100735-English_setter,English_setter,English setter,yes
+n02102040-English_springer,English_springer,English springer spaniel,partial
+n02108000-EntleBucher,EntleBucher,,no
+n02109961-Eskimo_dog,Eskimo_dog,American eskimo dog,partial
+n02099267-flat-coated_retriever,flat-coated_retriever,Flat-coated retriever,yes
+n02108915-French_bulldog,French_bulldog,French bulldog,yes
+n02106662-German_shepherd,German_shepherd,German shepherd,yes
+n02100236-German_short-haired_pointer,German_short-haired_pointer,,no
+n02097130-giant_schnauzer,giant_schnauzer,,no
+n02099601-golden_retriever,golden_retriever,Golden retriever,yes
+n02101006-Gordon_setter,Gordon_setter,Gordon setter,yes
+n02109047-Great_Dane,Great_Dane,Great Dane,yes
+n02111500-Great_Pyrenees,Great_Pyrenees,Great Pyrenees,yes
+n02107574-Greater_Swiss_Mountain_dog,Greater_Swiss_Mountain_dog,Greater Swiss mountain dog,yes
+n02105056-groenendael,groenendael,,no
+n02091244-Ibizan_hound,Ibizan_hound,Ibizan hound,yes
+n02100877-Irish_setter,Irish_setter,Irish setter,yes
+n02093991-Irish_terrier,Irish_terrier,Irish terrier,yes
+n02102973-Irish_water_spaniel,Irish_water_spaniel,Irish water spaniel,yes
+n02090721-Irish_wolfhound,Irish_wolfhound,Irish wolfhound,yes
+n02091032-Italian_greyhound,Italian_greyhound,Italian greyhound,yes
+n02085782-Japanese_spaniel,Japanese_spaniel,,no
+n02112350-keeshond,keeshond,Keeshond,yes
+n02105412-kelpie,kelpie,Australian kelpie,partial
+n02093859-Kerry_blue_terrier,Kerry_blue_terrier,Kerry blue terrier,yes
+n02105505-komondor,komondor,Komondor,yes
+n02104029-kuvasz,kuvasz,Kuvasz,yes
+n02099712-Labrador_retriever,Labrador_retriever,Labrador retriever,yes
+n02095570-Lakeland_terrier,Lakeland_terrier,Lakeland terrier,yes
+n02111129-Leonberg,Leonberg,,no
+n02098413-Lhasa,Lhasa,Lhasa apso,partial
+n02110063-malamute,malamute,Alaskan malamute,partial
+n02105162-malinois,malinois,Belgian Malinois,partial
+n02085936-Maltese_dog,Maltese_dog,,no
+n02113978-Mexican_hairless,Mexican_hairless,,no
+n02107312-miniature_pinscher,miniature_pinscher,Miniature pinscher,yes
+n02113712-miniature_poodle,miniature_poodle,,no
+n02097047-miniature_schnauzer,miniature_schnauzer,,no
+n02111277-Newfoundland,Newfoundland,Newfoundland,yes
+n02094114-Norfolk_terrier,Norfolk_terrier,Norfolk terrier,yes
+n02091467-Norwegian_elkhound,Norwegian_elkhound,Norwegian elkhound,yes
+n02094258-Norwich_terrier,Norwich_terrier,Norwich terrier,yes
+n02105641-Old_English_sheepdog,Old_English_sheepdog,Old English sheepdog,yes
+n02091635-otterhound,otterhound,Otterhound,yes
+n02086910-papillon,papillon,Papillon,yes
+n02086079-Pekinese,Pekinese,,no
+n02113023-Pembroke,Pembroke,Pembroke Welsh corgi,partial
+n02112018-Pomeranian,Pomeranian,Pomeranian,yes
+n02110958-pug,pug,Pug,yes
+n02090379-redbone,redbone,Redbone coonhound,partial
+n02087394-Rhodesian_ridgeback,Rhodesian_ridgeback,Rhodesian ridgeback,yes
+n02106550-Rottweiler,Rottweiler,Rottweiler,yes
+n02109525-Saint_Bernard,Saint_Bernard,Saint Bernard,yes
+n02091831-Saluki,Saluki,Saluki,yes
+n02111889-Samoyed,Samoyed,Samoyed,yes
+n02104365-schipperke,schipperke,Schipperke,yes
+n02097298-Scotch_terrier,Scotch_terrier,,no
+n02092002-Scottish_deerhound,Scottish_deerhound,Scottish deerhound,yes
+n02095889-Sealyham_terrier,Sealyham_terrier,Sealyham terrier,yes
+n02105855-Shetland_sheepdog,Shetland_sheepdog,Shetland sheepdog,yes
+n02086240-Shih-Tzu,Shih-Tzu,Shih tzu,yes
+n02110185-Siberian_husky,Siberian_husky,Siberian husky,yes
+n02097658-silky_terrier,silky_terrier,Silky terrier,yes
+n02098105-soft-coated_wheaten_terrier,soft-coated_wheaten_terrier,Soft coated wheaten terrier,yes
+n02093256-Staffordshire_bullterrier,Staffordshire_bullterrier,,no
+n02113799-standard_poodle,standard_poodle,,no
+n02097209-standard_schnauzer,standard_schnauzer,,no
+n02102480-Sussex_spaniel,Sussex_spaniel,Sussex spaniel,yes
+n02108551-Tibetan_mastiff,Tibetan_mastiff,Mastiff,partial
+n02097474-Tibetan_terrier,Tibetan_terrier,Tibetan terrier,yes
+n02113624-toy_poodle,toy_poodle,,no
+n02087046-toy_terrier,toy_terrier,,no
+n02100583-vizsla,vizsla,Vizsla,yes
+n02089867-Walker_hound,Walker_hound,,no
+n02092339-Weimaraner,Weimaraner,Weimaraner,yes
+n02102177-Welsh_springer_spaniel,Welsh_springer_spaniel,Welsh springer spaniel,yes
+n02098286-West_Highland_white_terrier,West_Highland_white_terrier,West Highland white terrier,yes
+n02091134-whippet,whippet,Whippet,yes
+n02095314-wire-haired_fox_terrier,wire-haired_fox_terrier,,no
+n02094433-Yorkshire_terrier,Yorkshire_terrier,Yorkshire terrier,yes
+,,Akbash dog,cidd_only
+,,Akita,cidd_only
+,,American bulldog,cidd_only
+,,American pit bull terrier,cidd_only
+,,American water spaniel,cidd_only
+,,Australian cattle dog,cidd_only
+,,Australian shepherd,cidd_only
+,,Basset hound,cidd_only
+,,Belgian Tervuren,cidd_only
+,,Belgian sheepdog,cidd_only
+,,Bichon frise,cidd_only
+,,Black Russian terrier,cidd_only
+,,Boston terrier,cidd_only
+,,Brussels Griffon,cidd_only
+,,Bull Terrier - Miniature,cidd_only
+,,Bull terrier,cidd_only
+,,Canaan dog,cidd_only
+,,Cavalier King Charles spaniel,cidd_only
+,,"Cocker spaniel, English",cidd_only
+,,Collie (rough and smooth),cidd_only
+,,Coton de tulear,cidd_only
+,,Dachshund,cidd_only
+,,Dalmatian,cidd_only
+,,English (British) bulldog,cidd_only
+,,English toy spaniel,cidd_only
+,,Field spaniel,cidd_only
+,,Finnish spitz,cidd_only
+,,"Fox terrier, smooth",cidd_only
+,,"Fox terrier, wire hair",cidd_only
+,,German shorthaired pointer,cidd_only
+,,German wirehaired pointer,cidd_only
+,,Greyhound,cidd_only
+,,Harrier,cidd_only
+,,Havanese,cidd_only
+,,Japanese Chin,cidd_only
+,,Karelien bear dog,cidd_only
+,,Large Munsterlander,cidd_only
+,,Lowchen,cidd_only
+,,Maltese terrier,cidd_only
+,,Manchester terrier,cidd_only
+,,Miniature bull terrier,cidd_only
+,,Neapolitan mastiff,cidd_only
+,,Nova Scotia duck tolling retriever,cidd_only
+,,Parson (Jack) Russell terrier,cidd_only
+,,Pekingese,cidd_only
+,,Pharaoh hound,cidd_only
+,,Plott hound,cidd_only
+,,Pointer (English pointer),cidd_only
+,,"Poodle, miniature",cidd_only
+,,"Poodle, standard",cidd_only
+,,"Poodle, toy",cidd_only
+,,Portuguese water dog,cidd_only
+,,Puli,cidd_only
+,,"Schnauzer, giant",cidd_only
+,,"Schnauzer, miniature",cidd_only
+,,"Schnauzer, standard",cidd_only
+,,Scottish terrier,cidd_only
+,,Shar-pei (Chinese shar-pei),cidd_only
+,,Shiba Inu,cidd_only
+,,Skye terrier,cidd_only
+,,Sough African Boerboel,cidd_only
+,,Staffordshire bull terrier,cidd_only
+,,Tibetan spaniel,cidd_only
+,,"Welsh Corgi, Cardigan",cidd_only
+,,Welsh terrier,cidd_only
+,,Wire-haired pointing griffon,cidd_only
