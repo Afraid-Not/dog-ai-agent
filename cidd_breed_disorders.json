@@ -1,0 +1,2841 @@
+{
+  "source": "cidd_breeds.json",
+  "disorder_list_source": "https://cidd.discoveryspace.ca/disorder/overview.html",
+  "note": "genetic_disorders=유전병(1~3섹션), other_disorders=질병(4섹션, 산발 보고)",
+  "total_breeds": 160,
+  "breeds": [
+    {
+      "breed": "Affenpinscher",
+      "url": "https://cidd.discoveryspace.ca/breed/affenpinscher.html",
+      "genetic_disorders": [
+        "Hip dysplasia"
+      ],
+      "other_disorders": [
+        "Cataracts"
+      ]
+    },
+    {
+      "breed": "Afghan hound",
+      "url": "https://cidd.discoveryspace.ca/breed/afghan-hound.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Corneal dystrophy",
+        "Demodicosis/ Demodectic mange",
+        "Hip dysplasia",
+        "Hypothyroidism"
+      ],
+      "other_disorders": [
+        "Glaucoma",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia"
+      ]
+    },
+    {
+      "breed": "Airedale terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/airedale-terrier.html",
+      "genetic_disorders": [
+        "Cerebellar abiotrophy(ataxia)",
+        "Corneal dystrophy",
+        "Entropion",
+        "Hip dysplasia",
+        "Hypothyroidism",
+        "Pulmonic stenosis",
+        "von Willebrand's disease"
+      ],
+      "other_disorders": [
+        "Progressive retinal atrophy",
+        "Retinal dysplasia"
+      ]
+    },
+    {
+      "breed": "Akbash dog",
+      "url": "https://cidd.discoveryspace.ca/breed/akbash-dog.html",
+      "genetic_disorders": [
+        "Hip dysplasia"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "Akita",
+      "url": "https://cidd.discoveryspace.ca/breed/akita.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Entropion",
+        "Hip dysplasia",
+        "Microphthalmia; ocular dysgenesis",
+        "Pemphigus",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia",
+        "sebaceous adenitis"
+      ],
+      "other_disorders": [
+        "Glaucoma"
+      ]
+    },
+    {
+      "breed": "Alaskan malamute",
+      "url": "https://cidd.discoveryspace.ca/breed/alaskan-malamute.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Diabetes mellitus",
+        "Glaucoma",
+        "Hip dysplasia",
+        "Osteochondrodysplasia - skeletal dwarfism",
+        "zinc-responsive dermatosis"
+      ],
+      "other_disorders": [
+        "Corneal dystrophy",
+        "Hypothyroidism",
+        "Peripheral neuropathies",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "American bulldog",
+      "url": "https://cidd.discoveryspace.ca/breed/american-bulldog.html",
+      "genetic_disorders": [
+        "Elbow dysplasia - OCD of the elbow",
+        "Hip dysplasia",
+        "Lysosomal storage diseases"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "American eskimo dog",
+      "url": "https://cidd.discoveryspace.ca/breed/american-eskimo-dog.html",
+      "genetic_disorders": [
+        "Pyruvate kinase (PK) deficiency"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "American pit bull terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/american-pit-bull-terrier.html",
+      "genetic_disorders": [
+        "Demodicosis/ Demodectic mange"
+      ],
+      "other_disorders": [
+        "Atopy",
+        "Cleft lip/palate",
+        "Hip dysplasia",
+        "Hypothyroidism",
+        "Patellar luxation",
+        "ichthyosis",
+        "zinc-responsive dermatosis"
+      ]
+    },
+    {
+      "breed": "American Staffordshire terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/american-staffordshire-terrier.html",
+      "genetic_disorders": [
+        "Demodicosis/ Demodectic mange",
+        "Disorders of sexual development - sexual reversal",
+        "Hip dysplasia"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "American water spaniel",
+      "url": "https://cidd.discoveryspace.ca/breed/american-water-spaniel.html",
+      "genetic_disorders": [
+        "Growth hormone-responsive dermatosis; adrenal sex hormone responsive dermatosis",
+        "Hip dysplasia",
+        "pattern baldness"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Retinal dysplasia"
+      ]
+    },
+    {
+      "breed": "Australian cattle dog",
+      "url": "https://cidd.discoveryspace.ca/breed/australian-cattle-dog.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Deafness",
+        "Dermatomyositis and ulcerative dermatosis",
+        "Hip dysplasia",
+        "Portosystemic shunt",
+        "Progressive retinal atrophy"
+      ],
+      "other_disorders": [
+        "Retinal dysplasia"
+      ]
+    },
+    {
+      "breed": "Australian kelpie",
+      "url": "https://cidd.discoveryspace.ca/breed/australian-kelpie.html",
+      "genetic_disorders": [
+        "Cerebellar abiotrophy(ataxia)",
+        "Globoid cell leukodystrophy (galactocerebrosidosis)"
+      ],
+      "other_disorders": [
+        "Cutaneous asthenia (Ehlers-Danlos syndrome)",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Australian shepherd",
+      "url": "https://cidd.discoveryspace.ca/breed/australian-shepherd.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Deafness",
+        "Hip dysplasia",
+        "Microphthalmia; ocular dysgenesis",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia"
+      ],
+      "other_disorders": [
+        "Collie eye anomaly (CEA)",
+        "Pannus - chronic superficial keratitis",
+        "Persistent pupillary membranes (PPM)"
+      ]
+    },
+    {
+      "breed": "Australian terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/australian-terrier.html",
+      "genetic_disorders": [
+        "Progressive retinal atrophy",
+        "Retinal dysplasia"
+      ],
+      "other_disorders": [
+        "Progressive retinal atrophy",
+        "Retinal dysplasia"
+      ]
+    },
+    {
+      "breed": "Basenji",
+      "url": "https://cidd.discoveryspace.ca/breed/basenji.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Corneal dystrophy",
+        "Fanconi syndrome",
+        "Hip dysplasia",
+        "Immunoproliferative (Basenji) enteropathy/lymphocytic-plasmacytic enteritis",
+        "Persistent pupillary membranes (PPM)",
+        "Progressive retinal atrophy",
+        "Pyruvate kinase (PK) deficiency"
+      ],
+      "other_disorders": [
+        "Retinal dysplasia"
+      ]
+    },
+    {
+      "breed": "Basset Griffon Vendeen",
+      "url": "https://cidd.discoveryspace.ca/breed/basset-griffon-vendeen.html",
+      "genetic_disorders": [
+        "Hip dysplasia"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "Basset hound",
+      "url": "https://cidd.discoveryspace.ca/breed/basset-hound.html",
+      "genetic_disorders": [
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Ectropion",
+        "Elbow dysplasia - OCD of the elbow",
+        "Entropion",
+        "Exposure keratopathy syndrome (exophthalmos, lagophthalmos, and/or macroblepharon)",
+        "Follicular dysplasias",
+        "Glaucoma",
+        "Intervertebral disk disease",
+        "Panosteitis",
+        "Patellar luxation",
+        "Platelet dysfunction (thrombocytopathia, Basset hound thrombopathia)",
+        "Severe combined immunodeficiency (SCID)",
+        "Third eyelid (nictitating membrane) abnormalities - \"cherry eye\"",
+        "seborrhea"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "Beagle",
+      "url": "https://cidd.discoveryspace.ca/breed/beagle.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Cerebellar abiotrophy(ataxia)",
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Corneal dystrophy",
+        "Deafness",
+        "Demodicosis/ Demodectic mange",
+        "Disorders of sexual development - sexual reversal",
+        "Glaucoma",
+        "Globoid cell leukodystrophy (galactocerebrosidosis)",
+        "Idiopathic epilepsy",
+        "Intervertebral disk disease",
+        "Microphthalmia; ocular dysgenesis",
+        "Mitral valve dysplasia",
+        "Progressive retinal atrophy",
+        "Pulmonic stenosis",
+        "Retinal dysplasia",
+        "Selective IgA deficiency",
+        "Third eyelid (nictitating membrane) abnormalities - \"cherry eye\""
+      ],
+      "other_disorders": [
+        "Cutaneous asthenia (Ehlers-Danlos syndrome)",
+        "Shaker dog syndrome"
+      ]
+    },
+    {
+      "breed": "Bearded collie",
+      "url": "https://cidd.discoveryspace.ca/breed/bearded-collie.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Corneal dystrophy",
+        "Hip dysplasia",
+        "Pemphigus"
+      ],
+      "other_disorders": [
+        "Follicular dysplasias",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Bedlington terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/bedlington-terrier.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Chronic hepatitis",
+        "Retinal dysplasia"
+      ],
+      "other_disorders": [
+        "Glaucoma",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Belgian Malinois",
+      "url": "https://cidd.discoveryspace.ca/breed/belgian-malinois.html",
+      "genetic_disorders": [
+        "Hip dysplasia",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "Belgian sheepdog",
+      "url": "https://cidd.discoveryspace.ca/breed/belgian-sheepdog.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Pannus - chronic superficial keratitis",
+        "Progressive retinal atrophy",
+        "X-linked muscular dystrophy"
+      ],
+      "other_disorders": [
+        "Retinal dysplasia"
+      ]
+    },
+    {
+      "breed": "Belgian Tervuren",
+      "url": "https://cidd.discoveryspace.ca/breed/belgian-tervuren.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Idiopathic epilepsy",
+        "Pannus - chronic superficial keratitis",
+        "vitiligo"
+      ],
+      "other_disorders": [
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Bernese mountain dog",
+      "url": "https://cidd.discoveryspace.ca/breed/bernese-mountain-dog.html",
+      "genetic_disorders": [
+        "Cerebellar abiotrophy(ataxia)",
+        "Elbow dysplasia - OCD of the elbow",
+        "Entropion",
+        "Familial kidney disease",
+        "Hip dysplasia",
+        "Histiocytosis",
+        "Hypo-/dysmyelinogenesis (\"shaking pup\")",
+        "Idiopathic epilepsy",
+        "Meningitis",
+        "Progressive retinal atrophy",
+        "Subaortic stenosis",
+        "colour dilution alopecia"
+      ],
+      "other_disorders": [
+        "von Willebrand's disease"
+      ]
+    },
+    {
+      "breed": "Bichon frise",
+      "url": "https://cidd.discoveryspace.ca/breed/bichon-frise.html",
+      "genetic_disorders": [
+        "Atopy",
+        "Cataracts",
+        "Corneal dystrophy",
+        "Hemophilia",
+        "Patent ductus arteriosus (PDA)",
+        "Shaker dog syndrome",
+        "Urolithiasis (stones)",
+        "congenital hypotrichosis"
+      ],
+      "other_disorders": [
+        "Idiopathic epilepsy"
+      ]
+    },
+    {
+      "breed": "Black and tan coonhound",
+      "url": "https://cidd.discoveryspace.ca/breed/black-and-tan-coonhound.html",
+      "genetic_disorders": [
+        "Entropion",
+        "Hip dysplasia"
+      ],
+      "other_disorders": [
+        "Hemophilia",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Black Russian terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/black-russian-terrier.html",
+      "genetic_disorders": [
+        "Urolithiasis (stones)"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "Bloodhound",
+      "url": "https://cidd.discoveryspace.ca/breed/bloodhound.html",
+      "genetic_disorders": [
+        "Ectropion",
+        "Elbow dysplasia - OCD of the elbow",
+        "Entropion",
+        "Exposure keratopathy syndrome (exophthalmos, lagophthalmos, and/or macroblepharon)",
+        "Fold dermatitis/pyoderma",
+        "Gastric dilatation-volvulus",
+        "Hip dysplasia",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Third eyelid (nictitating membrane) abnormalities - \"cherry eye\""
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "Bluetick coonhound",
+      "url": "https://cidd.discoveryspace.ca/breed/bluetick-coonhound.html",
+      "genetic_disorders": [
+        "Globoid cell leukodystrophy (galactocerebrosidosis)",
+        "Hip dysplasia"
+      ],
+      "other_disorders": [
+        "Cataracts"
+      ]
+    },
+    {
+      "breed": "Border collie",
+      "url": "https://cidd.discoveryspace.ca/breed/border-collie.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Cerebellar abiotrophy(ataxia)",
+        "Collie eye anomaly (CEA)",
+        "Deafness",
+        "Hip dysplasia",
+        "Lens luxation",
+        "Microphthalmia; ocular dysgenesis",
+        "Pannus - chronic superficial keratitis",
+        "Progressive retinal atrophy"
+      ],
+      "other_disorders": [
+        "Idiopathic epilepsy"
+      ]
+    },
+    {
+      "breed": "Border terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/border-terrier.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Retinal dysplasia"
+      ],
+      "other_disorders": [
+        "Fanconi syndrome",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Borzoi",
+      "url": "https://cidd.discoveryspace.ca/breed/borzoi.html",
+      "genetic_disorders": [
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Gastric dilatation-volvulus",
+        "Microphthalmia; ocular dysgenesis",
+        "Progressive retinal atrophy",
+        "Tricuspid valve dysplasia"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Hypothyroidism"
+      ]
+    },
+    {
+      "breed": "Boston terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/boston-terrier.html",
+      "genetic_disorders": [
+        "Atopy",
+        "Cataracts",
+        "Cleft lip/palate",
+        "Corneal dystrophy",
+        "Deafness",
+        "Demodicosis/ Demodectic mange",
+        "Fold dermatitis/pyoderma",
+        "Glaucoma",
+        "Hemivertebra",
+        "Hydrocephalus",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Mitral valve dysplasia",
+        "Patellar luxation",
+        "Pyloric stenosis",
+        "Third eyelid (nictitating membrane) abnormalities - \"cherry eye\"",
+        "brachycephalic syndrome",
+        "hypoplastic trachea",
+        "pattern baldness"
+      ],
+      "other_disorders": [
+        "Craniomandibular osteopathy (\"lion jaw\")",
+        "Hyperadrenocorticism (Cushing's syndrome)",
+        "Progressive retinal atrophy",
+        "Spina bifida"
+      ]
+    },
+    {
+      "breed": "Bouvier des Flandres",
+      "url": "https://cidd.discoveryspace.ca/breed/bouvier-des-flandres.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Glaucoma",
+        "Hip dysplasia",
+        "Laryngeal paralysis",
+        "Megaesophagus"
+      ],
+      "other_disorders": [
+        "Gastric dilatation-volvulus"
+      ]
+    },
+    {
+      "breed": "Boxer",
+      "url": "https://cidd.discoveryspace.ca/breed/boxer.html",
+      "genetic_disorders": [
+        "Arrhythmogenic right ventricular cardiomyopathy (ARVC) (Boxer cardiomyopathy)",
+        "Atopy",
+        "Atrial septal defect (ASD)",
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Coagulation (bleeding) disorders",
+        "Corneal dystrophy",
+        "Cryptorchidism, retained testicle",
+        "Cutaneous asthenia (Ehlers-Danlos syndrome)",
+        "Degenerative myelopathy",
+        "Demodicosis/ Demodectic mange",
+        "Dilated cardiomyopathy",
+        "Ectropion",
+        "Gastric dilatation-volvulus",
+        "Hip dysplasia",
+        "Histiocytic ulcerative colitis",
+        "Histiocytoma",
+        "Hypothyroidism",
+        "Progressive retinal atrophy",
+        "Pyloric stenosis",
+        "Sick sinus syndrome",
+        "Subaortic stenosis",
+        "Third eyelid (nictitating membrane) abnormalities - \"cherry eye\"",
+        "dermoid sinus"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Hyperadrenocorticism (Cushing's syndrome)",
+        "Idiopathic epilepsy",
+        "Platelet dysfunction (thrombocytopathia, Basset hound thrombopathia)"
+      ]
+    },
+    {
+      "breed": "Briard",
+      "url": "https://cidd.discoveryspace.ca/breed/briard.html",
+      "genetic_disorders": [
+        "Corneal dystrophy",
+        "Gastric dilatation-volvulus",
+        "Hip dysplasia",
+        "Progressive retinal atrophy"
+      ],
+      "other_disorders": [
+        "Hyperlipoproteinemia"
+      ]
+    },
+    {
+      "breed": "Brittany",
+      "url": "https://cidd.discoveryspace.ca/breed/brittany.html",
+      "genetic_disorders": [
+        "Cerebellar abiotrophy(ataxia)",
+        "Cleft lip/palate",
+        "Complement deficiency",
+        "Glaucoma",
+        "Hip dysplasia",
+        "Idiopathic epilepsy",
+        "Lens luxation",
+        "Progressive retinal atrophy",
+        "Spinal muscular atrophy/motor neuron diseases"
+      ],
+      "other_disorders": [
+        "Retinal dysplasia",
+        "Ventricular septal defect (VSD)"
+      ]
+    },
+    {
+      "breed": "Brussels Griffon",
+      "url": "https://cidd.discoveryspace.ca/breed/brussels-griffon.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Chiari-like malformation (CM) and syringomyelia (SM)",
+        "Progressive retinal atrophy"
+      ],
+      "other_disorders": [
+        "Corneal dystrophy",
+        "Hip dysplasia"
+      ]
+    },
+    {
+      "breed": "Bull mastiff",
+      "url": "https://cidd.discoveryspace.ca/breed/bull-mastiff.html",
+      "genetic_disorders": [
+        "Cerebellar abiotrophy(ataxia)",
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Elbow dysplasia - OCD of the elbow",
+        "Entropion",
+        "Hip dysplasia",
+        "Retinal dysplasia"
+      ],
+      "other_disorders": [
+        "Neuroaxonal dystrophy"
+      ]
+    },
+    {
+      "breed": "Bull Terrier - Miniature",
+      "url": "https://cidd.discoveryspace.ca/breed/bull-terrier-miniature.html",
+      "genetic_disorders": [
+        "Lens luxation",
+        "Persistent pupillary membranes (PPM)"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "Bull terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/bull-terrier.html",
+      "genetic_disorders": [
+        "Deafness",
+        "Demodicosis/ Demodectic mange",
+        "Ectropion",
+        "Entropion",
+        "Familial kidney disease",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Laryngeal paralysis",
+        "Mitral valve dysplasia",
+        "lethal acrodermatitis"
+      ],
+      "other_disorders": [
+        "Histiocytoma",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Cairn terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/cairn-terrier.html",
+      "genetic_disorders": [
+        "Atopy",
+        "Cataracts",
+        "Craniomandibular osteopathy (\"lion jaw\")",
+        "Cryptorchidism, retained testicle",
+        "Glaucoma",
+        "Globoid cell leukodystrophy (galactocerebrosidosis)",
+        "Hemophilia",
+        "Hydrocephalus",
+        "Legg-CalvÃ©-Perthes disease",
+        "Mitral valve dysplasia",
+        "Portosystemic shunt",
+        "Progressive retinal atrophy",
+        "Pyruvate kinase (PK) deficiency"
+      ],
+      "other_disorders": [
+        "Patellar luxation"
+      ]
+    },
+    {
+      "breed": "Canaan dog",
+      "url": "https://cidd.discoveryspace.ca/breed/canaan-dog.html",
+      "genetic_disorders": [
+        "Hip dysplasia",
+        "Idiopathic epilepsy",
+        "Progressive retinal atrophy"
+      ],
+      "other_disorders": [
+        "Hip dysplasia",
+        "Idiopathic epilepsy",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Cardigan Welsh Corgi",
+      "url": "https://cidd.discoveryspace.ca/breed/cardigan-welsh-corgi.html",
+      "genetic_disorders": [
+        "Intervertebral disk disease",
+        "Lens luxation",
+        "Persistent pupillary membranes (PPM)",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia"
+      ],
+      "other_disorders": [
+        "Severe combined immunodeficiency (SCID)"
+      ]
+    },
+    {
+      "breed": "Cavalier King Charles spaniel",
+      "url": "https://cidd.discoveryspace.ca/breed/cavalier-king-charles-spaniel.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Chiari-like malformation (CM) and syringomyelia (SM)",
+        "Corneal dystrophy",
+        "Exposure keratopathy syndrome (exophthalmos, lagophthalmos, and/or macroblepharon)",
+        "Hip dysplasia",
+        "Microphthalmia; ocular dysgenesis",
+        "Mitral valve dysplasia",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia",
+        "brachycephalic syndrome"
+      ],
+      "other_disorders": [
+        "Diabetes mellitus",
+        "Idiopathic epilepsy",
+        "Urolithiasis (stones)",
+        "ichthyosis"
+      ]
+    },
+    {
+      "breed": "Chesapeake Bay retriever",
+      "url": "https://cidd.discoveryspace.ca/breed/chesapeake-bay-retriever.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Entropion",
+        "Hip dysplasia",
+        "Progressive retinal atrophy",
+        "von Willebrand's disease"
+      ],
+      "other_disorders": [
+        "Degenerative myelopathy",
+        "Retinal dysplasia"
+      ]
+    },
+    {
+      "breed": "Chihuahua",
+      "url": "https://cidd.discoveryspace.ca/breed/chihuahua.html",
+      "genetic_disorders": [
+        "Chiari-like malformation (CM) and syringomyelia (SM)",
+        "Corneal dystrophy",
+        "Cryptorchidism, retained testicle",
+        "Demodicosis/ Demodectic mange",
+        "Glaucoma",
+        "Hydrocephalus",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Mitral valve dysplasia",
+        "Patellar luxation",
+        "Patent ductus arteriosus (PDA)",
+        "Progressive retinal atrophy",
+        "Pulmonic stenosis",
+        "colour dilution alopecia",
+        "pattern baldness"
+      ],
+      "other_disorders": [
+        "Hemophilia",
+        "Neuroaxonal dystrophy",
+        "Spina bifida"
+      ]
+    },
+    {
+      "breed": "Chow chow",
+      "url": "https://cidd.discoveryspace.ca/breed/chow-chow.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Cerebellar abiotrophy(ataxia)",
+        "Cerebellar hypoplasia",
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Corneal dystrophy",
+        "Diabetes mellitus",
+        "Ectropion",
+        "Elbow dysplasia - OCD of the elbow",
+        "Entropion",
+        "Glaucoma",
+        "Growth hormone-responsive dermatosis; adrenal sex hormone responsive dermatosis",
+        "Hip dysplasia",
+        "Hypo-/dysmyelinogenesis (\"shaking pup\")",
+        "Hypothyroidism",
+        "Myotonia",
+        "Persistent pupillary membranes (PPM)",
+        "colour dilution alopecia",
+        "sebaceous adenitis"
+      ],
+      "other_disorders": [
+        "Dermatomyositis and ulcerative dermatosis",
+        "Pemphigus",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Clumber spaniel",
+      "url": "https://cidd.discoveryspace.ca/breed/clumber-spaniel.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Ectropion",
+        "Entropion",
+        "Exposure keratopathy syndrome (exophthalmos, lagophthalmos, and/or macroblepharon)",
+        "Hip dysplasia",
+        "Retinal dysplasia"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "Cocker spaniel, American",
+      "url": "https://cidd.discoveryspace.ca/breed/cocker-spaniel-american.html",
+      "genetic_disorders": [
+        "Atopy",
+        "Cataracts",
+        "Chronic hepatitis",
+        "Cleft lip/palate",
+        "Coagulation (bleeding) disorders",
+        "Corneal dystrophy",
+        "Disorders of sexual development - sexual reversal",
+        "Ectropion",
+        "Entropion",
+        "Exposure keratopathy syndrome (exophthalmos, lagophthalmos, and/or macroblepharon)",
+        "Fold dermatitis/pyoderma",
+        "Glaucoma",
+        "Hip dysplasia",
+        "Hypothyroidism",
+        "Idiopathic epilepsy",
+        "Immune-mediated hemolytic anemia (IMHA)",
+        "Immune-mediated thrombocytopenia",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Patent ductus arteriosus (PDA)",
+        "Persistent pupillary membranes (PPM)",
+        "Phosphofructokinase (PFK) deficiency",
+        "Platelet dysfunction (thrombocytopathia, Basset hound thrombopathia)",
+        "Progressive retinal atrophy",
+        "Pulmonic stenosis",
+        "Retinal dysplasia",
+        "Sick sinus syndrome",
+        "Third eyelid (nictitating membrane) abnormalities - \"cherry eye\"",
+        "sebaceous adenitis",
+        "seborrhea",
+        "vitamin A-responsive dermatosis"
+      ],
+      "other_disorders": [
+        "Dilated cardiomyopathy",
+        "Intervertebral disk disease",
+        "Patellar luxation",
+        "Portosystemic shunt"
+      ]
+    },
+    {
+      "breed": "Cocker spaniel, English",
+      "url": "https://cidd.discoveryspace.ca/breed/cocker-spaniel-english.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Chronic hepatitis",
+        "Dilated cardiomyopathy",
+        "Ectropion",
+        "Entropion",
+        "Familial kidney disease",
+        "Glaucoma",
+        "Hip dysplasia",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Persistent pupillary membranes (PPM)",
+        "Progressive retinal atrophy"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "Collie (rough and smooth)",
+      "url": "https://cidd.discoveryspace.ca/breed/collie-rough-and-smooth.html",
+      "genetic_disorders": [
+        "Bullous pemphigoid",
+        "Canine cyclic hematopoiesis",
+        "Cataracts",
+        "Cerebellar abiotrophy(ataxia)",
+        "Collie eye anomaly (CEA)",
+        "Corneal dystrophy",
+        "Deafness",
+        "Demodicosis/ Demodectic mange",
+        "Dermatomyositis and ulcerative dermatosis",
+        "Idiopathic epilepsy",
+        "Immune-mediated hemolytic anemia (IMHA)",
+        "Lupus erythematosus (systemic, cutaneous/discoid)",
+        "Microphthalmia; ocular dysgenesis",
+        "Patent ductus arteriosus (PDA)",
+        "Pemphigus",
+        "Persistent pupillary membranes (PPM)",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia"
+      ],
+      "other_disorders": [
+        "Degenerative myelopathy",
+        "Entropion",
+        "Hemophilia",
+        "Neuroaxonal dystrophy",
+        "Platelet dysfunction (thrombocytopathia, Basset hound thrombopathia)",
+        "sebaceous adenitis"
+      ]
+    },
+    {
+      "breed": "Coton de tulear",
+      "url": "https://cidd.discoveryspace.ca/breed/coton-de-tulear.html",
+      "genetic_disorders": [
+        "Cerebellar abiotrophy(ataxia)"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "Curly coated retriever",
+      "url": "https://cidd.discoveryspace.ca/breed/curly-coated-retriever.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Hip dysplasia",
+        "Progressive retinal atrophy"
+      ],
+      "other_disorders": [
+        "Ectropion"
+      ]
+    },
+    {
+      "breed": "Dachshund",
+      "url": "https://cidd.discoveryspace.ca/breed/dachshund.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Cleft lip/palate",
+        "Corneal dystrophy",
+        "Cryptorchidism, retained testicle",
+        "Cutaneous asthenia (Ehlers-Danlos syndrome)",
+        "Deafness",
+        "Demodicosis/ Demodectic mange",
+        "Dermoids",
+        "Follicular dysplasias",
+        "Histiocytoma",
+        "Hyperadrenocorticism (Cushing's syndrome)",
+        "Intervertebral disk disease",
+        "Microphthalmia; ocular dysgenesis",
+        "Mitral valve dysplasia",
+        "Optic nerve hypoplasia and micropapilla",
+        "Pannus - chronic superficial keratitis",
+        "Progressive retinal atrophy",
+        "Pyruvate kinase (PK) deficiency",
+        "Sick sinus syndrome",
+        "Urolithiasis (stones)",
+        "acanthosis nigricans",
+        "colour dilution alopecia",
+        "pattern baldness",
+        "seborrhea",
+        "von Willebrand's disease"
+      ],
+      "other_disorders": [
+        "Elbow dysplasia - OCD of the elbow",
+        "Glaucoma",
+        "Idiopathic epilepsy",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Portosystemic shunt",
+        "sebaceous adenitis"
+      ]
+    },
+    {
+      "breed": "Dalmatian",
+      "url": "https://cidd.discoveryspace.ca/breed/dalmatian.html",
+      "genetic_disorders": [
+        "Atopy",
+        "Cataracts",
+        "Dalmatian bronzing syndrome",
+        "Deafness",
+        "Demodicosis/ Demodectic mange",
+        "Dermoids",
+        "Entropion",
+        "Glaucoma",
+        "Globoid cell leukodystrophy (galactocerebrosidosis)",
+        "Laryngeal paralysis",
+        "Microphthalmia; ocular dysgenesis",
+        "Peripheral neuropathies",
+        "Urolithiasis (stones)"
+      ],
+      "other_disorders": [
+        "Ectropion",
+        "Pannus - chronic superficial keratitis",
+        "Progressive retinal atrophy",
+        "Spina bifida",
+        "sebaceous adenitis"
+      ]
+    },
+    {
+      "breed": "Dandie Dinmont Terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/dandie-dinmont-terrier.html",
+      "genetic_disorders": [
+        "Glaucoma",
+        "Hyperadrenocorticism (Cushing's syndrome)"
+      ],
+      "other_disorders": [
+        "Intervertebral disk disease",
+        "Patellar luxation",
+        "Portosystemic shunt",
+        "Urolithiasis (stones)"
+      ]
+    },
+    {
+      "breed": "Doberman pinscher",
+      "url": "https://cidd.discoveryspace.ca/breed/doberman-pinscher.html",
+      "genetic_disorders": [
+        "Atrial septal defect (ASD)",
+        "Cataracts",
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Chronic hepatitis",
+        "Deafness",
+        "Demodicosis/ Demodectic mange",
+        "Diabetes mellitus",
+        "Dilated cardiomyopathy",
+        "Familial kidney disease",
+        "Follicular dysplasias",
+        "Hypothyroidism",
+        "Immune-mediated hemolytic anemia (IMHA)",
+        "Intervertebral disk disease",
+        "Microphthalmia; ocular dysgenesis",
+        "Panosteitis",
+        "Pemphigus",
+        "Peripheral neuropathies",
+        "acral lick dermatitis (lick granuloma)",
+        "colour dilution alopecia",
+        "ichthyosis",
+        "seborrhea",
+        "vitiligo",
+        "von Willebrand's disease",
+        "zinc-responsive dermatosis"
+      ],
+      "other_disorders": [
+        "Hemivertebra",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia",
+        "sebaceous adenitis"
+      ]
+    },
+    {
+      "breed": "English (British) bulldog",
+      "url": "https://cidd.discoveryspace.ca/breed/english-british-bulldog.html",
+      "genetic_disorders": [
+        "Cleft lip/palate",
+        "Cryptorchidism, retained testicle",
+        "Deafness",
+        "Demodicosis/ Demodectic mange",
+        "Entropion",
+        "Fold dermatitis/pyoderma",
+        "Hemivertebra",
+        "Hip dysplasia",
+        "Histiocytoma",
+        "Hydrocephalus",
+        "Hypothyroidism",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Pulmonic stenosis",
+        "Spina bifida",
+        "Subaortic stenosis",
+        "Tetralogy of Fallot",
+        "Third eyelid (nictitating membrane) abnormalities - \"cherry eye\"",
+        "Urolithiasis (stones)",
+        "Ventricular septal defect (VSD)",
+        "brachycephalic syndrome",
+        "hypoplastic trachea"
+      ],
+      "other_disorders": [
+        "Laryngeal paralysis",
+        "Lymphedema",
+        "Retinal dysplasia"
+      ]
+    },
+    {
+      "breed": "English foxhound",
+      "url": "https://cidd.discoveryspace.ca/breed/english-foxhound.html",
+      "genetic_disorders": [
+        "Leukodystrophies"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "English setter",
+      "url": "https://cidd.discoveryspace.ca/breed/english-setter.html",
+      "genetic_disorders": [
+        "Atopy",
+        "Deafness",
+        "Ectropion",
+        "Hemophilia",
+        "Hip dysplasia"
+      ],
+      "other_disorders": [
+        "Cutaneous asthenia (Ehlers-Danlos syndrome)",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "English springer spaniel",
+      "url": "https://cidd.discoveryspace.ca/breed/english-springer-spaniel.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Coagulation (bleeding) disorders",
+        "Corneal dystrophy",
+        "Cutaneous asthenia (Ehlers-Danlos syndrome)",
+        "Diabetes mellitus",
+        "Ectropion",
+        "Entropion",
+        "Fold dermatitis/pyoderma",
+        "Hip dysplasia",
+        "Hypo-/dysmyelinogenesis (\"shaking pup\")",
+        "Immune-mediated hemolytic anemia (IMHA)",
+        "Lysosomal storage diseases",
+        "Myasthenia gravis",
+        "Patent ductus arteriosus (PDA)",
+        "Phosphofructokinase (PFK) deficiency",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia",
+        "psoriasiform-lichenoid dermatosis",
+        "seborrhea"
+      ],
+      "other_disorders": [
+        "Glaucoma",
+        "Idiopathic epilepsy",
+        "Ventricular septal defect (VSD)"
+      ]
+    },
+    {
+      "breed": "English toy spaniel",
+      "url": "https://cidd.discoveryspace.ca/breed/english-toy-spaniel.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Entropion",
+        "Retinal dysplasia"
+      ],
+      "other_disorders": [
+        "Cleft lip/palate",
+        "Corneal dystrophy"
+      ]
+    },
+    {
+      "breed": "Field spaniel",
+      "url": "https://cidd.discoveryspace.ca/breed/field-spaniel.html",
+      "genetic_disorders": [
+        "Hip dysplasia",
+        "Retinal dysplasia"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Finnish spitz",
+      "url": "https://cidd.discoveryspace.ca/breed/finnish-spitz.html",
+      "genetic_disorders": [
+        "Diabetes mellitus",
+        "Hip dysplasia"
+      ],
+      "other_disorders": [
+        "Platelet dysfunction (thrombocytopathia, Basset hound thrombopathia)",
+        "Shaker dog syndrome"
+      ]
+    },
+    {
+      "breed": "Flat-coated retriever",
+      "url": "https://cidd.discoveryspace.ca/breed/flat-coated-retriever.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Entropion",
+        "Hip dysplasia",
+        "Histiocytosis"
+      ],
+      "other_disorders": [
+        "Elbow dysplasia - OCD of the elbow",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Fox terrier, smooth",
+      "url": "https://cidd.discoveryspace.ca/breed/fox-terrier-smooth.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Glaucoma",
+        "Lens luxation",
+        "Myasthenia gravis"
+      ],
+      "other_disorders": [
+        "Deafness",
+        "Progressive retinal atrophy",
+        "Pulmonic stenosis"
+      ]
+    },
+    {
+      "breed": "Fox terrier, wire hair",
+      "url": "https://cidd.discoveryspace.ca/breed/fox-terrier-wire-hair.html",
+      "genetic_disorders": [
+        "Atopy",
+        "Cataracts",
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Glaucoma",
+        "Idiopathic epilepsy",
+        "Lens luxation",
+        "Lissencephaly",
+        "Megaesophagus",
+        "Pulmonic stenosis"
+      ],
+      "other_disorders": [
+        "Legg-CalvÃ©-Perthes disease",
+        "Tetralogy of Fallot"
+      ]
+    },
+    {
+      "breed": "French bulldog",
+      "url": "https://cidd.discoveryspace.ca/breed/french-bulldog.html",
+      "genetic_disorders": [
+        "Cleft lip/palate",
+        "Entropion",
+        "Hemivertebra",
+        "Histiocytic ulcerative colitis",
+        "Intervertebral disk disease",
+        "brachycephalic syndrome"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Hemophilia"
+      ]
+    },
+    {
+      "breed": "German shepherd",
+      "url": "https://cidd.discoveryspace.ca/breed/german-shepherd.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Cleft lip/palate",
+        "Corneal dystrophy",
+        "Cutaneous asthenia (Ehlers-Danlos syndrome)",
+        "Degenerative myelopathy",
+        "Demodicosis/ Demodectic mange",
+        "Dermatomyositis and ulcerative dermatosis",
+        "Dermoids",
+        "Elbow dysplasia - OCD of the elbow",
+        "Exocrine pancreatic insufficiency",
+        "German shepherd pyoderma",
+        "Hemivertebra",
+        "Hemophilia",
+        "Hip dysplasia",
+        "Hyperadrenocorticism (Cushing's syndrome)",
+        "Idiopathic epilepsy",
+        "Lupus erythematosus (systemic, cutaneous/discoid)",
+        "Masticatory muscle myositis - eosinophilic myositis",
+        "Megaesophagus",
+        "Mitral valve dysplasia",
+        "Myasthenia gravis",
+        "Optic nerve hypoplasia and micropapilla",
+        "Pannus - chronic superficial keratitis",
+        "Panosteitis",
+        "Patent ductus arteriosus (PDA)",
+        "Pemphigus",
+        "Perianal fistula",
+        "Persistent right aortic arch ( vascular ring anomaly )",
+        "Platelet dysfunction (thrombocytopathia, Basset hound thrombopathia)",
+        "Progressive retinal atrophy",
+        "Renal cystadenocarcinoma and nodular dermatofibrosis",
+        "Retinal dysplasia",
+        "Selective IgA deficiency",
+        "Small intestinal bacterial overgrowth (SIBO)",
+        "Subaortic stenosis",
+        "Tricuspid valve dysplasia",
+        "Vertebral stenosis (associated with cauda equina syndrome)",
+        "acral lick dermatitis (lick granuloma)",
+        "footpad disorder in the German shepherd",
+        "seborrhea",
+        "von Willebrand's disease"
+      ],
+      "other_disorders": [
+        "Gastric dilatation-volvulus",
+        "Pulmonic stenosis",
+        "sebaceous adenitis",
+        "vitiligo"
+      ]
+    },
+    {
+      "breed": "German shorthaired pointer",
+      "url": "https://cidd.discoveryspace.ca/breed/german-shorthaired-pointer.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Disorders of sexual development - sexual reversal",
+        "Entropion",
+        "Hemivertebra",
+        "Hip dysplasia",
+        "Progressive retinal atrophy",
+        "Subaortic stenosis",
+        "Third eyelid (nictitating membrane) abnormalities - \"cherry eye\"",
+        "acral mutilation syndrome",
+        "lupoid dermatosis",
+        "von Willebrand's disease"
+      ],
+      "other_disorders": [
+        "X-linked muscular dystrophy"
+      ]
+    },
+    {
+      "breed": "German wirehaired pointer",
+      "url": "https://cidd.discoveryspace.ca/breed/german-wirehaired-pointer.html",
+      "genetic_disorders": [
+        "Entropion",
+        "Hip dysplasia"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "von Willebrand's disease"
+      ]
+    },
+    {
+      "breed": "Golden retriever",
+      "url": "https://cidd.discoveryspace.ca/breed/golden-retriever.html",
+      "genetic_disorders": [
+        "Atopy",
+        "Cataracts",
+        "Corneal dystrophy",
+        "Diabetes mellitus",
+        "Elbow dysplasia - OCD of the elbow",
+        "Entropion",
+        "Hip dysplasia",
+        "Histiocytosis",
+        "Hypo-/dysmyelinogenesis (\"shaking pup\")",
+        "Hypothyroidism",
+        "Idiopathic epilepsy",
+        "Portosystemic shunt",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia",
+        "Subaortic stenosis",
+        "X-linked muscular dystrophy",
+        "von Willebrand's disease"
+      ],
+      "other_disorders": [
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Familial kidney disease",
+        "ichthyosis",
+        "sebaceous adenitis"
+      ]
+    },
+    {
+      "breed": "Gordon setter",
+      "url": "https://cidd.discoveryspace.ca/breed/gordon-setter.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Cerebellar abiotrophy(ataxia)",
+        "Ectropion",
+        "Entropion",
+        "Follicular dysplasias",
+        "Gastric dilatation-volvulus",
+        "Hip dysplasia",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia"
+      ],
+      "other_disorders": [
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\""
+      ]
+    },
+    {
+      "breed": "Great Dane",
+      "url": "https://cidd.discoveryspace.ca/breed/great-dane.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Deafness",
+        "Demodicosis/ Demodectic mange",
+        "Dilated cardiomyopathy",
+        "Ectropion",
+        "Entropion",
+        "Gastric dilatation-volvulus",
+        "Glaucoma",
+        "Hip dysplasia",
+        "Hypothyroidism",
+        "Megaesophagus",
+        "Microphthalmia; ocular dysgenesis",
+        "Mitral valve dysplasia",
+        "Persistent right aortic arch ( vascular ring anomaly )",
+        "Progressive retinal atrophy",
+        "Subaortic stenosis",
+        "Tricuspid valve dysplasia",
+        "zinc-responsive dermatosis"
+      ],
+      "other_disorders": [
+        "Elbow dysplasia - OCD of the elbow",
+        "Retinal dysplasia",
+        "acral lick dermatitis (lick granuloma)"
+      ]
+    },
+    {
+      "breed": "Great Pyrenees",
+      "url": "https://cidd.discoveryspace.ca/breed/great-pyrenees.html",
+      "genetic_disorders": [
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Coagulation (bleeding) disorders",
+        "Deafness",
+        "Ectropion",
+        "Elbow dysplasia - OCD of the elbow",
+        "Entropion",
+        "Hip dysplasia",
+        "Osteochondrodysplasia - skeletal dwarfism",
+        "Platelet dysfunction (thrombocytopathia, Basset hound thrombopathia)",
+        "Tricuspid valve dysplasia"
+      ],
+      "other_disorders": [
+        "Optic nerve hypoplasia and micropapilla"
+      ]
+    },
+    {
+      "breed": "Greater Swiss mountain dog",
+      "url": "https://cidd.discoveryspace.ca/breed/greater-swiss-mountain-dog.html",
+      "genetic_disorders": [
+        "Elbow dysplasia - OCD of the elbow",
+        "Hip dysplasia"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "Greyhound",
+      "url": "https://cidd.discoveryspace.ca/breed/greyhound.html",
+      "genetic_disorders": [
+        "Cutaneous asthenia (Ehlers-Danlos syndrome)",
+        "Deafness",
+        "Hemophilia",
+        "Megaesophagus",
+        "Pannus - chronic superficial keratitis",
+        "Progressive retinal atrophy",
+        "pattern baldness"
+      ],
+      "other_disorders": [
+        "Histiocytoma"
+      ]
+    },
+    {
+      "breed": "Harrier",
+      "url": "https://cidd.discoveryspace.ca/breed/harrier.html",
+      "genetic_disorders": [
+        "Cerebellar abiotrophy(ataxia)",
+        "Idiopathic epilepsy"
+      ],
+      "other_disorders": [
+        "Cerebellar abiotrophy(ataxia)",
+        "Idiopathic epilepsy"
+      ]
+    },
+    {
+      "breed": "Havanese",
+      "url": "https://cidd.discoveryspace.ca/breed/havanese.html",
+      "genetic_disorders": [
+        "Cataracts"
+      ],
+      "other_disorders": [
+        "Progressive retinal atrophy",
+        "Retinal dysplasia"
+      ]
+    },
+    {
+      "breed": "Ibizan hound",
+      "url": "https://cidd.discoveryspace.ca/breed/ibizan-hound.html",
+      "genetic_disorders": [
+        "Deafness",
+        "Degenerative myelopathy"
+      ],
+      "other_disorders": [
+        "Cataracts"
+      ]
+    },
+    {
+      "breed": "Irish setter",
+      "url": "https://cidd.discoveryspace.ca/breed/irish-setter.html",
+      "genetic_disorders": [
+        "Atopy",
+        "Cataracts",
+        "Cerebellar abiotrophy(ataxia)",
+        "Cerebellar hypoplasia",
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Entropion",
+        "Gastric dilatation-volvulus",
+        "Globoid cell leukodystrophy (galactocerebrosidosis)",
+        "Gluten-sensitive enteropathy",
+        "Hemophilia",
+        "Hip dysplasia",
+        "Hypothyroidism",
+        "Idiopathic epilepsy",
+        "Immune-mediated hemolytic anemia (IMHA)",
+        "Lissencephaly",
+        "Megaesophagus",
+        "Patent ductus arteriosus (PDA)",
+        "Perianal fistula",
+        "Persistent pupillary membranes (PPM)",
+        "Progressive retinal atrophy",
+        "Third eyelid (nictitating membrane) abnormalities - \"cherry eye\"",
+        "Tricuspid valve dysplasia",
+        "acral lick dermatitis (lick granuloma)",
+        "colour dilution alopecia",
+        "seborrhea"
+      ],
+      "other_disorders": [
+        "Cutaneous asthenia (Ehlers-Danlos syndrome)",
+        "Ectropion",
+        "Optic nerve hypoplasia and micropapilla",
+        "sebaceous adenitis"
+      ]
+    },
+    {
+      "breed": "Irish terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/irish-terrier.html",
+      "genetic_disorders": [
+        "Urolithiasis (stones)",
+        "X-linked muscular dystrophy"
+      ],
+      "other_disorders": [
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Irish water spaniel",
+      "url": "https://cidd.discoveryspace.ca/breed/irish-water-spaniel.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Follicular dysplasias",
+        "Hip dysplasia"
+      ],
+      "other_disorders": [
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Irish wolfhound",
+      "url": "https://cidd.discoveryspace.ca/breed/irish-wolfhound.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Corneal dystrophy",
+        "Dilated cardiomyopathy",
+        "Elbow dysplasia - OCD of the elbow",
+        "Entropion",
+        "Gastric dilatation-volvulus",
+        "Hip dysplasia",
+        "Portosystemic shunt"
+      ],
+      "other_disorders": [
+        "Hypothyroidism",
+        "Retinal dysplasia"
+      ]
+    },
+    {
+      "breed": "Italian greyhound",
+      "url": "https://cidd.discoveryspace.ca/breed/italian-greyhound.html",
+      "genetic_disorders": [],
+      "other_disorders": []
+    },
+    {
+      "breed": "Japanese Chin",
+      "url": "https://cidd.discoveryspace.ca/breed/japanese-chin.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Entropion"
+      ],
+      "other_disorders": [
+        "Corneal dystrophy",
+        "Mitral valve dysplasia",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Karelien bear dog",
+      "url": "https://cidd.discoveryspace.ca/breed/karelien-bear-dog.html",
+      "genetic_disorders": [
+        "Hip dysplasia",
+        "Pituitary dwarfism"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "Keeshond",
+      "url": "https://cidd.discoveryspace.ca/breed/keeshond.html",
+      "genetic_disorders": [
+        "Diabetes mellitus",
+        "Growth hormone-responsive dermatosis; adrenal sex hormone responsive dermatosis",
+        "Hip dysplasia",
+        "Idiopathic epilepsy",
+        "Patent ductus arteriosus (PDA)",
+        "Progressive retinal atrophy",
+        "Tetralogy of Fallot",
+        "Ventricular septal defect (VSD)"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Cutaneous asthenia (Ehlers-Danlos syndrome)",
+        "Glaucoma"
+      ]
+    },
+    {
+      "breed": "Kerry blue terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/kerry-blue-terrier.html",
+      "genetic_disorders": [
+        "Cerebellar abiotrophy(ataxia)",
+        "Coagulation (bleeding) disorders",
+        "Hip dysplasia",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Patent ductus arteriosus (PDA)",
+        "von Willebrand's disease"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Progressive retinal atrophy",
+        "dermoid sinus"
+      ]
+    },
+    {
+      "breed": "Komondor",
+      "url": "https://cidd.discoveryspace.ca/breed/komondor.html",
+      "genetic_disorders": [
+        "Elbow dysplasia - OCD of the elbow",
+        "Gastric dilatation-volvulus",
+        "Hip dysplasia"
+      ],
+      "other_disorders": [
+        "Elbow dysplasia - OCD of the elbow",
+        "Gastric dilatation-volvulus"
+      ]
+    },
+    {
+      "breed": "Kuvasz",
+      "url": "https://cidd.discoveryspace.ca/breed/kuvasz.html",
+      "genetic_disorders": [
+        "Dermatomyositis and ulcerative dermatosis",
+        "Hip dysplasia"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Deafness"
+      ]
+    },
+    {
+      "breed": "Labrador retriever",
+      "url": "https://cidd.discoveryspace.ca/breed/labrador-retriever.html",
+      "genetic_disorders": [
+        "Atopy",
+        "Cataracts",
+        "Cerebellar abiotrophy(ataxia)",
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Cleft lip/palate",
+        "Corneal dystrophy",
+        "Diabetes mellitus",
+        "Ectropion",
+        "Elbow dysplasia - OCD of the elbow",
+        "Entropion",
+        "Hemophilia",
+        "Hereditary myopathy - Labrador retriever/Bouviers des Flandres myopathy",
+        "Hip dysplasia",
+        "Idiopathic epilepsy",
+        "Leukodystrophies",
+        "Lymphedema",
+        "Osteochondrodysplasia - skeletal dwarfism",
+        "Panosteitis",
+        "Persistent pupillary membranes (PPM)",
+        "Portosystemic shunt",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia",
+        "Tricuspid valve dysplasia",
+        "acral lick dermatitis (lick granuloma)",
+        "seborrhea",
+        "vitamin A-responsive dermatosis"
+      ],
+      "other_disorders": [
+        "Fanconi syndrome",
+        "Gastric dilatation-volvulus",
+        "Microphthalmia; ocular dysgenesis",
+        "Neuroaxonal dystrophy",
+        "sebaceous adenitis"
+      ]
+    },
+    {
+      "breed": "Lakeland terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/lakeland-terrier.html",
+      "genetic_disorders": [
+        "Legg-CalvÃ©-Perthes disease"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Cryptorchidism, retained testicle",
+        "Microphthalmia; ocular dysgenesis"
+      ]
+    },
+    {
+      "breed": "Large Munsterlander",
+      "url": "https://cidd.discoveryspace.ca/breed/large-munsterlander.html",
+      "genetic_disorders": [
+        "Urolithiasis (stones)"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "Lhasa apso",
+      "url": "https://cidd.discoveryspace.ca/breed/lhasa-apso.html",
+      "genetic_disorders": [
+        "Atopy",
+        "Cataracts",
+        "Exposure keratopathy syndrome (exophthalmos, lagophthalmos, and/or macroblepharon)",
+        "Familial kidney disease",
+        "Hydrocephalus",
+        "Intervertebral disk disease",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Lissencephaly",
+        "Patellar luxation",
+        "Progressive retinal atrophy",
+        "Third eyelid (nictitating membrane) abnormalities - \"cherry eye\"",
+        "Urolithiasis (stones)",
+        "brachycephalic syndrome"
+      ],
+      "other_disorders": [
+        "Corneal dystrophy",
+        "Demodicosis/ Demodectic mange",
+        "Entropion",
+        "sebaceous adenitis"
+      ]
+    },
+    {
+      "breed": "Lowchen",
+      "url": "https://cidd.discoveryspace.ca/breed/lowchen.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Legg-CalvÃ©-Perthes disease",
+        "Patellar luxation",
+        "Progressive retinal atrophy"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Legg-CalvÃ©-Perthes disease",
+        "Patellar luxation",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Maltese terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/maltese-terrier.html",
+      "genetic_disorders": [
+        "Cryptorchidism, retained testicle",
+        "Hydrocephalus",
+        "Patent ductus arteriosus (PDA)",
+        "Portosystemic shunt",
+        "Shaker dog syndrome"
+      ],
+      "other_disorders": [
+        "Deafness",
+        "Glaucoma",
+        "Mitral valve dysplasia",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia",
+        "sebaceous adenitis"
+      ]
+    },
+    {
+      "breed": "Manchester terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/manchester-terrier.html",
+      "genetic_disorders": [
+        "Hydrocephalus",
+        "Legg-CalvÃ©-Perthes disease",
+        "Lens luxation",
+        "pattern baldness",
+        "von Willebrand's disease"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Cutaneous asthenia (Ehlers-Danlos syndrome)",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Mastiff",
+      "url": "https://cidd.discoveryspace.ca/breed/mastiff.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Ectropion",
+        "Elbow dysplasia - OCD of the elbow",
+        "Entropion",
+        "Exposure keratopathy syndrome (exophthalmos, lagophthalmos, and/or macroblepharon)",
+        "Hip dysplasia",
+        "Persistent pupillary membranes (PPM)",
+        "Progressive retinal atrophy",
+        "Pulmonic stenosis",
+        "Retinal dysplasia"
+      ],
+      "other_disorders": [
+        "Hypothyroidism",
+        "Urolithiasis (stones)"
+      ]
+    },
+    {
+      "breed": "Miniature bull terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/miniature-bull-terrier.html",
+      "genetic_disorders": [
+        "Lens luxation",
+        "Persistent pupillary membranes (PPM)"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "Miniature pinscher",
+      "url": "https://cidd.discoveryspace.ca/breed/miniature-pinscher.html",
+      "genetic_disorders": [
+        "Corneal dystrophy",
+        "Disorders of sexual development - sexual reversal",
+        "Legg-CalvÃ©-Perthes disease",
+        "Mitral valve dysplasia",
+        "colour dilution alopecia"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Progressive retinal atrophy",
+        "sebaceous adenitis"
+      ]
+    },
+    {
+      "breed": "Neapolitan mastiff",
+      "url": "https://cidd.discoveryspace.ca/breed/neapolitan-mastiff.html",
+      "genetic_disorders": [
+        "Ectropion",
+        "Entropion",
+        "Fold dermatitis/pyoderma",
+        "Hip dysplasia",
+        "Third eyelid (nictitating membrane) abnormalities - \"cherry eye\""
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Elbow dysplasia - OCD of the elbow",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Newfoundland",
+      "url": "https://cidd.discoveryspace.ca/breed/newfoundland.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Dilated cardiomyopathy",
+        "Ectropion",
+        "Elbow dysplasia - OCD of the elbow",
+        "Entropion",
+        "Exposure keratopathy syndrome (exophthalmos, lagophthalmos, and/or macroblepharon)",
+        "Hip dysplasia",
+        "Pemphigus",
+        "Subaortic stenosis",
+        "Third eyelid (nictitating membrane) abnormalities - \"cherry eye\"",
+        "Tricuspid valve dysplasia",
+        "Urolithiasis (stones)"
+      ],
+      "other_disorders": [
+        "Hypothyroidism",
+        "Retinal dysplasia",
+        "Ventricular septal defect (VSD)"
+      ]
+    },
+    {
+      "breed": "Norfolk terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/norfolk-terrier.html",
+      "genetic_disorders": [
+        "Cataracts"
+      ],
+      "other_disorders": [
+        "Glaucoma",
+        "Optic nerve hypoplasia and micropapilla"
+      ]
+    },
+    {
+      "breed": "Norwegian elkhound",
+      "url": "https://cidd.discoveryspace.ca/breed/norwegian-elkhound.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Familial kidney disease",
+        "Glaucoma",
+        "Hip dysplasia",
+        "Osteochondrodysplasia - skeletal dwarfism",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia"
+      ],
+      "other_disorders": [
+        "Disorders of sexual development - sexual reversal",
+        "Entropion",
+        "Fanconi syndrome"
+      ]
+    },
+    {
+      "breed": "Norwich terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/norwich-terrier.html",
+      "genetic_disorders": [
+        "Cataracts"
+      ],
+      "other_disorders": [
+        "Atopy",
+        "Corneal dystrophy",
+        "Scotty cramp"
+      ]
+    },
+    {
+      "breed": "Nova Scotia duck tolling retriever",
+      "url": "https://cidd.discoveryspace.ca/breed/nova-scotia-duck-tolling-retriever.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Corneal dystrophy",
+        "Hip dysplasia",
+        "Hypoadrenocorticism (Addison's disease)",
+        "Persistent pupillary membranes (PPM)",
+        "Progressive retinal atrophy"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "Old English sheepdog",
+      "url": "https://cidd.discoveryspace.ca/breed/old-english-sheepdog.html",
+      "genetic_disorders": [
+        "Atrial septal defect (ASD)",
+        "Cataracts",
+        "Cerebellar abiotrophy(ataxia)",
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Cryptorchidism, retained testicle",
+        "Deafness",
+        "Demodicosis/ Demodectic mange",
+        "Diabetes mellitus",
+        "Entropion",
+        "Hip dysplasia",
+        "Immune-mediated hemolytic anemia (IMHA)",
+        "Immune-mediated thrombocytopenia",
+        "Microphthalmia; ocular dysgenesis",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia",
+        "Tricuspid valve dysplasia"
+      ],
+      "other_disorders": [
+        "Dilated cardiomyopathy",
+        "Hemophilia",
+        "sebaceous adenitis"
+      ]
+    },
+    {
+      "breed": "Otterhound",
+      "url": "https://cidd.discoveryspace.ca/breed/otterhound.html",
+      "genetic_disorders": [
+        "Hip dysplasia",
+        "Platelet dysfunction (thrombocytopathia, Basset hound thrombopathia)"
+      ],
+      "other_disorders": [
+        "Gastric dilatation-volvulus"
+      ]
+    },
+    {
+      "breed": "Papillon",
+      "url": "https://cidd.discoveryspace.ca/breed/papillon.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Follicular dysplasias",
+        "Mitral valve dysplasia",
+        "Progressive retinal atrophy",
+        "von Willebrand's disease"
+      ],
+      "other_disorders": [
+        "Deafness",
+        "Patellar luxation",
+        "von Willebrand's disease"
+      ]
+    },
+    {
+      "breed": "Parson (Jack) Russell terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/parson-jack-russell-terrier.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Cerebellar abiotrophy(ataxia)",
+        "Lens luxation",
+        "Leukodystrophies",
+        "Myasthenia gravis",
+        "Urolithiasis (stones)",
+        "ichthyosis"
+      ],
+      "other_disorders": [
+        "Coagulation (bleeding) disorders",
+        "Deafness",
+        "Follicular dysplasias"
+      ]
+    },
+    {
+      "breed": "Pekingese",
+      "url": "https://cidd.discoveryspace.ca/breed/pekingese.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Cleft lip/palate",
+        "Cryptorchidism, retained testicle",
+        "Entropion",
+        "Exposure keratopathy syndrome (exophthalmos, lagophthalmos, and/or macroblepharon)",
+        "Fold dermatitis/pyoderma",
+        "Hydrocephalus",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Mitral valve dysplasia",
+        "Patellar luxation",
+        "Progressive retinal atrophy",
+        "brachycephalic syndrome"
+      ],
+      "other_disorders": [
+        "Intervertebral disk disease"
+      ]
+    },
+    {
+      "breed": "Pembroke Welsh corgi",
+      "url": "https://cidd.discoveryspace.ca/breed/pembroke-welsh-corgi.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Corneal dystrophy",
+        "Cutaneous asthenia (Ehlers-Danlos syndrome)",
+        "Degenerative myelopathy",
+        "Familial kidney disease",
+        "Intervertebral disk disease",
+        "Persistent pupillary membranes (PPM)",
+        "Retinal dysplasia",
+        "von Willebrand's disease"
+      ],
+      "other_disorders": [
+        "Dermatomyositis and ulcerative dermatosis",
+        "Idiopathic epilepsy",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Pharaoh hound",
+      "url": "https://cidd.discoveryspace.ca/breed/pharaoh-hound.html",
+      "genetic_disorders": [
+        "Demodicosis/ Demodectic mange",
+        "Elbow dysplasia - OCD of the elbow",
+        "Idiopathic epilepsy"
+      ],
+      "other_disorders": [
+        "Demodicosis/ Demodectic mange",
+        "Elbow dysplasia - OCD of the elbow",
+        "Idiopathic epilepsy"
+      ]
+    },
+    {
+      "breed": "Plott hound",
+      "url": "https://cidd.discoveryspace.ca/breed/plott-hound.html",
+      "genetic_disorders": [],
+      "other_disorders": []
+    },
+    {
+      "breed": "Pointer (English pointer)",
+      "url": "https://cidd.discoveryspace.ca/breed/pointer-english-pointer.html",
+      "genetic_disorders": [
+        "Cleft lip/palate",
+        "Demodicosis/ Demodectic mange",
+        "Hip dysplasia",
+        "Progressive retinal atrophy",
+        "Spinal muscular atrophy/motor neuron diseases",
+        "X-linked muscular dystrophy",
+        "acral mutilation syndrome"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Corneal dystrophy",
+        "Deafness",
+        "Entropion",
+        "Follicular dysplasias",
+        "Pannus - chronic superficial keratitis",
+        "Subaortic stenosis"
+      ]
+    },
+    {
+      "breed": "Pomeranian",
+      "url": "https://cidd.discoveryspace.ca/breed/pomeranian.html",
+      "genetic_disorders": [
+        "Cryptorchidism, retained testicle",
+        "Entropion",
+        "Growth hormone-responsive dermatosis; adrenal sex hormone responsive dermatosis",
+        "Hydrocephalus",
+        "Patellar luxation",
+        "Patent ductus arteriosus (PDA)",
+        "Sick sinus syndrome",
+        "tracheal collapse"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Cyclic hematopoiesis",
+        "Hypothyroidism",
+        "Intervertebral disk disease",
+        "Progressive retinal atrophy",
+        "sebaceous adenitis"
+      ]
+    },
+    {
+      "breed": "Poodle, miniature",
+      "url": "https://cidd.discoveryspace.ca/breed/poodle-miniature.html",
+      "genetic_disorders": [
+        "Atopy",
+        "Cataracts",
+        "Cerebellar abiotrophy(ataxia)",
+        "Coagulation (bleeding) disorders",
+        "Corneal dystrophy",
+        "Cryptorchidism, retained testicle",
+        "Deafness",
+        "Diabetes mellitus",
+        "Entropion",
+        "Glaucoma",
+        "Globoid cell leukodystrophy (galactocerebrosidosis)",
+        "Growth hormone-responsive dermatosis; adrenal sex hormone responsive dermatosis",
+        "Hyperadrenocorticism (Cushing's syndrome)",
+        "Hypothyroidism",
+        "Idiopathic epilepsy",
+        "Immune-mediated hemolytic anemia (IMHA)",
+        "Immune-mediated thrombocytopenia",
+        "Intervertebral disk disease",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Legg-CalvÃ©-Perthes disease",
+        "Lupus erythematosus (systemic, cutaneous/discoid)",
+        "Microphthalmia; ocular dysgenesis",
+        "Mitral valve dysplasia",
+        "Optic nerve hypoplasia and micropapilla",
+        "Patellar luxation",
+        "Patent ductus arteriosus (PDA)",
+        "Progressive retinal atrophy",
+        "Pyruvate kinase (PK) deficiency",
+        "Retinal dysplasia",
+        "Third eyelid (nictitating membrane) abnormalities - \"cherry eye\"",
+        "Urolithiasis (stones)",
+        "congenital hypotrichosis",
+        "ectodermal defect",
+        "sebaceous adenitis",
+        "von Willebrand's disease"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "Poodle, standard",
+      "url": "https://cidd.discoveryspace.ca/breed/poodle-standard.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Diabetes mellitus",
+        "Gastric dilatation-volvulus",
+        "Glaucoma",
+        "Hip dysplasia",
+        "Hyperadrenocorticism (Cushing's syndrome)",
+        "Idiopathic epilepsy",
+        "Microphthalmia; ocular dysgenesis",
+        "Mitral valve dysplasia",
+        "Optic nerve hypoplasia and micropapilla",
+        "colour dilution alopecia",
+        "sebaceous adenitis",
+        "von Willebrand's disease"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Dilated cardiomyopathy",
+        "Hypoadrenocorticism (Addison's disease)",
+        "Persistent pupillary membranes (PPM)",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia"
+      ]
+    },
+    {
+      "breed": "Poodle, toy",
+      "url": "https://cidd.discoveryspace.ca/breed/poodle-toy.html",
+      "genetic_disorders": [
+        "Cryptorchidism, retained testicle",
+        "Deafness",
+        "Diabetes mellitus",
+        "Entropion",
+        "Glaucoma",
+        "Growth hormone-responsive dermatosis; adrenal sex hormone responsive dermatosis",
+        "Hydrocephalus",
+        "Hyperadrenocorticism (Cushing's syndrome)",
+        "Idiopathic epilepsy",
+        "Immune-mediated thrombocytopenia",
+        "Legg-CalvÃ©-Perthes disease",
+        "Microphthalmia; ocular dysgenesis",
+        "Mitral valve dysplasia",
+        "Optic nerve hypoplasia and micropapilla",
+        "Patellar luxation",
+        "Patent ductus arteriosus (PDA)",
+        "Progressive retinal atrophy",
+        "sebaceous adenitis",
+        "tracheal collapse"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Corneal dystrophy",
+        "Retinal dysplasia",
+        "Tetralogy of Fallot",
+        "congenital hypotrichosis"
+      ]
+    },
+    {
+      "breed": "Portuguese water dog",
+      "url": "https://cidd.discoveryspace.ca/breed/portuguese-water-dog.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Follicular dysplasias",
+        "Hip dysplasia",
+        "Lysosomal storage diseases",
+        "Microphthalmia; ocular dysgenesis",
+        "Persistent pupillary membranes (PPM)",
+        "Progressive retinal atrophy",
+        "pattern baldness"
+      ],
+      "other_disorders": [
+        "Hypoadrenocorticism (Addison's disease)",
+        "colour dilution alopecia"
+      ]
+    },
+    {
+      "breed": "Pug",
+      "url": "https://cidd.discoveryspace.ca/breed/pug.html",
+      "genetic_disorders": [
+        "Atopy",
+        "Demodicosis/ Demodectic mange",
+        "Entropion",
+        "Exposure keratopathy syndrome (exophthalmos, lagophthalmos, and/or macroblepharon)",
+        "Fold dermatitis/pyoderma",
+        "Hemivertebra",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Meningitis",
+        "Sick sinus syndrome",
+        "brachycephalic syndrome"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Legg-CalvÃ©-Perthes disease",
+        "Spina bifida"
+      ]
+    },
+    {
+      "breed": "Puli",
+      "url": "https://cidd.discoveryspace.ca/breed/puli.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Hip dysplasia",
+        "Retinal dysplasia"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Retinal dysplasia"
+      ]
+    },
+    {
+      "breed": "Redbone coonhound",
+      "url": "https://cidd.discoveryspace.ca/breed/redbone-coonhound.html",
+      "genetic_disorders": [
+        "Entropion",
+        "Hip dysplasia"
+      ],
+      "other_disorders": [
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Rhodesian ridgeback",
+      "url": "https://cidd.discoveryspace.ca/breed/rhodesian-ridgeback.html",
+      "genetic_disorders": [
+        "Cerebellar abiotrophy(ataxia)",
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Deafness",
+        "Hip dysplasia",
+        "dermoid sinus"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Degenerative myelopathy",
+        "Entropion"
+      ]
+    },
+    {
+      "breed": "Rottweiler",
+      "url": "https://cidd.discoveryspace.ca/breed/rottweiler.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Cervical vertebral instability (Wobbler syndrome)",
+        "Deafness",
+        "Demodicosis/ Demodectic mange",
+        "Elbow dysplasia - OCD of the elbow",
+        "Entropion",
+        "Familial kidney disease",
+        "Hip dysplasia",
+        "Histiocytosis",
+        "Hyperadrenocorticism (Cushing's syndrome)",
+        "Neuroaxonal dystrophy",
+        "Pancreatitis",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia",
+        "Subaortic stenosis",
+        "X-linked muscular dystrophy"
+      ],
+      "other_disorders": [
+        "Corneal dystrophy",
+        "Familial kidney disease",
+        "Gastric dilatation-volvulus",
+        "Hemivertebra",
+        "Leukodystrophies",
+        "Microphthalmia; ocular dysgenesis",
+        "vitiligo"
+      ]
+    },
+    {
+      "breed": "Saint Bernard",
+      "url": "https://cidd.discoveryspace.ca/breed/saint-bernard.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Coagulation (bleeding) disorders",
+        "Cutaneous asthenia (Ehlers-Danlos syndrome)",
+        "Dermoids",
+        "Dilated cardiomyopathy",
+        "Ectropion",
+        "Elbow dysplasia - OCD of the elbow",
+        "Entropion",
+        "Exposure keratopathy syndrome (exophthalmos, lagophthalmos, and/or macroblepharon)",
+        "Gastric dilatation-volvulus",
+        "Hip dysplasia",
+        "Idiopathic epilepsy",
+        "Microphthalmia; ocular dysgenesis",
+        "Third eyelid (nictitating membrane) abnormalities - \"cherry eye\""
+      ],
+      "other_disorders": [
+        "Optic nerve hypoplasia and micropapilla",
+        "Retinal dysplasia",
+        "sebaceous adenitis"
+      ]
+    },
+    {
+      "breed": "Saluki",
+      "url": "https://cidd.discoveryspace.ca/breed/saluki.html",
+      "genetic_disorders": [
+        "Follicular dysplasias",
+        "colour dilution alopecia"
+      ],
+      "other_disorders": [
+        "Glaucoma",
+        "Lysosomal storage diseases",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Samoyed",
+      "url": "https://cidd.discoveryspace.ca/breed/samoyed.html",
+      "genetic_disorders": [
+        "Atrial septal defect (ASD)",
+        "Cataracts",
+        "Cerebellar abiotrophy(ataxia)",
+        "Corneal dystrophy",
+        "Deafness",
+        "Familial kidney disease",
+        "Glaucoma",
+        "Growth hormone-responsive dermatosis; adrenal sex hormone responsive dermatosis",
+        "Hemophilia",
+        "Hip dysplasia",
+        "Hypo-/dysmyelinogenesis (\"shaking pup\")",
+        "Leukodystrophies",
+        "Osteochondrodysplasia - skeletal dwarfism",
+        "Progressive retinal atrophy",
+        "Pulmonic stenosis",
+        "Retinal dysplasia",
+        "Subaortic stenosis",
+        "X-linked muscular dystrophy",
+        "sebaceous adenitis",
+        "zinc-responsive dermatosis"
+      ],
+      "other_disorders": [
+        "Cerebellar abiotrophy(ataxia)",
+        "Microphthalmia; ocular dysgenesis",
+        "Myasthenia gravis",
+        "Shaker dog syndrome",
+        "Spina bifida"
+      ]
+    },
+    {
+      "breed": "Schipperke",
+      "url": "https://cidd.discoveryspace.ca/breed/schipperke.html",
+      "genetic_disorders": [
+        "Diabetes mellitus",
+        "Follicular dysplasias",
+        "Pemphigus",
+        "colour dilution alopecia"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Schnauzer, giant",
+      "url": "https://cidd.discoveryspace.ca/breed/schnauzer-giant.html",
+      "genetic_disorders": [
+        "Hip dysplasia",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia",
+        "Urolithiasis (stones)"
+      ],
+      "other_disorders": [
+        "Hypothyroidism"
+      ]
+    },
+    {
+      "breed": "Schnauzer, miniature",
+      "url": "https://cidd.discoveryspace.ca/breed/schnauzer-miniature.html",
+      "genetic_disorders": [
+        "Atopy",
+        "Cataracts",
+        "Cleft lip/palate",
+        "Cryptorchidism, retained testicle",
+        "Diabetes mellitus",
+        "Glaucoma",
+        "Hyperlipoproteinemia",
+        "Hypothyroidism",
+        "Idiopathic epilepsy",
+        "Immune-mediated hemolytic anemia (IMHA)",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Megaesophagus",
+        "Microphthalmia; ocular dysgenesis",
+        "Pancreatitis",
+        "Portosystemic shunt",
+        "Progressive retinal atrophy",
+        "Pulmonic stenosis",
+        "Schnauzer comedo syndrome",
+        "Sick sinus syndrome",
+        "Urolithiasis (stones)",
+        "X-linked muscular dystrophy",
+        "von Willebrand's disease"
+      ],
+      "other_disorders": [
+        "Cutaneous asthenia (Ehlers-Danlos syndrome)",
+        "Familial kidney disease",
+        "Lysosomal storage diseases",
+        "Optic nerve hypoplasia and micropapilla",
+        "Retinal dysplasia",
+        "Selective IgA deficiency"
+      ]
+    },
+    {
+      "breed": "Schnauzer, standard",
+      "url": "https://cidd.discoveryspace.ca/breed/schnauzer-standard.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Hip dysplasia",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\""
+      ],
+      "other_disorders": [
+        "Pulmonic stenosis",
+        "Retinal dysplasia"
+      ]
+    },
+    {
+      "breed": "Scottish deerhound",
+      "url": "https://cidd.discoveryspace.ca/breed/scottish-deerhound.html",
+      "genetic_disorders": [
+        "Dilated cardiomyopathy",
+        "Gastric dilatation-volvulus",
+        "Osteochondrodysplasia - skeletal dwarfism"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "Scottish terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/scottish-terrier.html",
+      "genetic_disorders": [
+        "Atopy",
+        "Cataracts",
+        "Craniomandibular osteopathy (\"lion jaw\")",
+        "Deafness",
+        "Hemophilia",
+        "Histiocytoma",
+        "Lens luxation",
+        "Persistent pupillary membranes (PPM)",
+        "Pulmonic stenosis",
+        "Scotty cramp",
+        "von Willebrand's disease"
+      ],
+      "other_disorders": [
+        "Chronic hepatitis",
+        "Leukodystrophies",
+        "Progressive retinal atrophy",
+        "sebaceous adenitis"
+      ]
+    },
+    {
+      "breed": "Sealyham terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/sealyham-terrier.html",
+      "genetic_disorders": [
+        "Deafness",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Lens luxation",
+        "Retinal dysplasia"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Glaucoma",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Shar-pei (Chinese shar-pei)",
+      "url": "https://cidd.discoveryspace.ca/breed/shar-pei-chinese-shar-pei.html",
+      "genetic_disorders": [
+        "Atopy",
+        "Cataracts",
+        "Demodicosis/ Demodectic mange",
+        "Entropion",
+        "Familial kidney disease",
+        "Fold dermatitis/pyoderma",
+        "Hip dysplasia",
+        "Hypothyroidism",
+        "Megaesophagus",
+        "Selective IgA deficiency",
+        "Third eyelid (nictitating membrane) abnormalities - \"cherry eye\"",
+        "brachycephalic syndrome",
+        "cutaneous mucinosis",
+        "seborrhea"
+      ],
+      "other_disorders": [
+        "Glaucoma",
+        "Lens luxation"
+      ]
+    },
+    {
+      "breed": "Shetland sheepdog",
+      "url": "https://cidd.discoveryspace.ca/breed/shetland-sheepdog.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Collie eye anomaly (CEA)",
+        "Corneal dystrophy",
+        "Cryptorchidism, retained testicle",
+        "Deafness",
+        "Dermatomyositis and ulcerative dermatosis",
+        "Hip dysplasia",
+        "Microphthalmia; ocular dysgenesis",
+        "Patent ductus arteriosus (PDA)",
+        "Progressive retinal atrophy",
+        "colour dilution alopecia",
+        "von Willebrand's disease"
+      ],
+      "other_disorders": [
+        "Dermatomyositis and ulcerative dermatosis",
+        "Hemophilia",
+        "Hypothyroidism",
+        "Idiopathic epilepsy",
+        "Lupus erythematosus (systemic, cutaneous/discoid)"
+      ]
+    },
+    {
+      "breed": "Shiba Inu",
+      "url": "https://cidd.discoveryspace.ca/breed/shiba-inu.html",
+      "genetic_disorders": [
+        "Hip dysplasia",
+        "Hypothyroidism"
+      ],
+      "other_disorders": [
+        "Hypothyroidism"
+      ]
+    },
+    {
+      "breed": "Shih tzu",
+      "url": "https://cidd.discoveryspace.ca/breed/shih-tzu.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Cleft lip/palate",
+        "Ectropion",
+        "Entropion",
+        "Exposure keratopathy syndrome (exophthalmos, lagophthalmos, and/or macroblepharon)",
+        "Familial kidney disease",
+        "Hydrocephalus",
+        "Intervertebral disk disease",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Patellar luxation",
+        "Progressive retinal atrophy",
+        "Third eyelid (nictitating membrane) abnormalities - \"cherry eye\"",
+        "brachycephalic syndrome",
+        "dermoid sinus"
+      ],
+      "other_disorders": [
+        "Retinal dysplasia",
+        "Tricuspid valve dysplasia",
+        "Urolithiasis (stones)",
+        "sebaceous adenitis"
+      ]
+    },
+    {
+      "breed": "Siberian husky",
+      "url": "https://cidd.discoveryspace.ca/breed/siberian-husky.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Corneal dystrophy",
+        "Entropion",
+        "Glaucoma",
+        "Hemophilia",
+        "Hip dysplasia",
+        "Laryngeal paralysis",
+        "Pannus - chronic superficial keratitis",
+        "Progressive retinal atrophy",
+        "zinc-responsive dermatosis"
+      ],
+      "other_disorders": [
+        "Degenerative myelopathy",
+        "Follicular dysplasias",
+        "Idiopathic epilepsy",
+        "Lupus erythematosus (systemic, cutaneous/discoid)",
+        "Tetralogy of Fallot",
+        "Ventricular septal defect (VSD)"
+      ]
+    },
+    {
+      "breed": "Silky terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/silky-terrier.html",
+      "genetic_disorders": [
+        "Legg-CalvÃ©-Perthes disease",
+        "Leukodystrophies",
+        "Patellar luxation"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "colour dilution alopecia"
+      ]
+    },
+    {
+      "breed": "Skye terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/skye-terrier.html",
+      "genetic_disorders": [
+        "Chronic hepatitis",
+        "Lens luxation"
+      ],
+      "other_disorders": [
+        "Atopy",
+        "tracheal collapse"
+      ]
+    },
+    {
+      "breed": "Soft coated wheaten terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/soft-coated-wheaten-terrier.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Familial kidney disease",
+        "Hypoadrenocorticism (Addison's disease)",
+        "Microphthalmia; ocular dysgenesis",
+        "Protein-losing enteropathy",
+        "Retinal dysplasia"
+      ],
+      "other_disorders": [
+        "Cutaneous asthenia (Ehlers-Danlos syndrome)",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Sough African Boerboel",
+      "url": "https://cidd.discoveryspace.ca/breed/sough-african-boerboel.html",
+      "genetic_disorders": [
+        "Urolithiasis (stones)"
+      ],
+      "other_disorders": []
+    },
+    {
+      "breed": "Staffordshire bull terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/staffordshire-bull-terrier.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Demodicosis/ Demodectic mange",
+        "Hip dysplasia"
+      ],
+      "other_disorders": [
+        "brachycephalic syndrome"
+      ]
+    },
+    {
+      "breed": "Sussex spaniel",
+      "url": "https://cidd.discoveryspace.ca/breed/sussex-spaniel.html",
+      "genetic_disorders": [
+        "Retinal dysplasia"
+      ],
+      "other_disorders": [
+        "Cataracts",
+        "Hip dysplasia",
+        "Pulmonic stenosis"
+      ]
+    },
+    {
+      "breed": "Tibetan spaniel",
+      "url": "https://cidd.discoveryspace.ca/breed/tibetan-spaniel.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Entropion",
+        "Progressive retinal atrophy"
+      ],
+      "other_disorders": [
+        "Microphthalmia; ocular dysgenesis",
+        "Retinal dysplasia"
+      ]
+    },
+    {
+      "breed": "Tibetan terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/tibetan-terrier.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Hip dysplasia",
+        "Lens luxation",
+        "Progressive retinal atrophy"
+      ],
+      "other_disorders": [
+        "Retinal dysplasia"
+      ]
+    },
+    {
+      "breed": "Vizsla",
+      "url": "https://cidd.discoveryspace.ca/breed/vizsla.html",
+      "genetic_disorders": [
+        "Corneal dystrophy",
+        "Entropion",
+        "Hemophilia",
+        "Hip dysplasia",
+        "sebaceous adenitis"
+      ],
+      "other_disorders": [
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Weimaraner",
+      "url": "https://cidd.discoveryspace.ca/breed/weimaraner.html",
+      "genetic_disorders": [
+        "Elbow dysplasia - OCD of the elbow",
+        "Entropion",
+        "Gastric dilatation-volvulus",
+        "Hemophilia",
+        "Hip dysplasia",
+        "Hypo-/dysmyelinogenesis (\"shaking pup\")",
+        "Myelodysplasia (spinal dysraphism)",
+        "Third eyelid (nictitating membrane) abnormalities - \"cherry eye\"",
+        "Tricuspid valve dysplasia",
+        "Urolithiasis (stones)",
+        "Weimaraner immunodeficiency",
+        "sebaceous adenitis"
+      ],
+      "other_disorders": [
+        "Pituitary dwarfism"
+      ]
+    },
+    {
+      "breed": "Welsh Corgi, Cardigan",
+      "url": "https://cidd.discoveryspace.ca/breed/welsh-corgi-cardigan.html",
+      "genetic_disorders": [
+        "Intervertebral disk disease",
+        "Lens luxation",
+        "Persistent pupillary membranes (PPM)",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia"
+      ],
+      "other_disorders": [
+        "Severe combined immunodeficiency (SCID)"
+      ]
+    },
+    {
+      "breed": "Welsh springer spaniel",
+      "url": "https://cidd.discoveryspace.ca/breed/welsh-springer-spaniel.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Glaucoma",
+        "Hip dysplasia",
+        "Progressive retinal atrophy"
+      ],
+      "other_disorders": [
+        "Hypothyroidism"
+      ]
+    },
+    {
+      "breed": "Welsh terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/welsh-terrier.html",
+      "genetic_disorders": [
+        "Lens luxation"
+      ],
+      "other_disorders": [
+        "Glaucoma",
+        "Idiopathic epilepsy",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\""
+      ]
+    },
+    {
+      "breed": "West Highland white terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/west-highland-white-terrier.html",
+      "genetic_disorders": [
+        "Atopy",
+        "Cataracts",
+        "Chronic hepatitis",
+        "Craniomandibular osteopathy (\"lion jaw\")",
+        "Deafness",
+        "Globoid cell leukodystrophy (galactocerebrosidosis)",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Legg-CalvÃ©-Perthes disease",
+        "Mellitus",
+        "Persistent pupillary membranes (PPM)",
+        "Pulmonic stenosis",
+        "Pyruvate kinase (PK) deficiency",
+        "Shaker dog syndrome",
+        "epidermal dysplasia",
+        "ichthyosis",
+        "seborrhea"
+      ],
+      "other_disorders": [
+        "Glaucoma",
+        "Hypoadrenocorticism (Addison's disease)",
+        "Retinal dysplasia",
+        "Selective IgA deficiency"
+      ]
+    },
+    {
+      "breed": "Whippet",
+      "url": "https://cidd.discoveryspace.ca/breed/whippet.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Phosphofructokinase (PFK) deficiency",
+        "colour dilution alopecia",
+        "ectodermal defect",
+        "pattern baldness"
+      ],
+      "other_disorders": [
+        "Corneal dystrophy",
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Wire-haired pointing griffon",
+      "url": "https://cidd.discoveryspace.ca/breed/wire-haired-pointing-griffon.html",
+      "genetic_disorders": [
+        "Hip dysplasia"
+      ],
+      "other_disorders": [
+        "Progressive retinal atrophy"
+      ]
+    },
+    {
+      "breed": "Yorkshire terrier",
+      "url": "https://cidd.discoveryspace.ca/breed/yorkshire-terrier.html",
+      "genetic_disorders": [
+        "Cataracts",
+        "Cryptorchidism, retained testicle",
+        "Entropion",
+        "Hydrocephalus",
+        "Hyperadrenocorticism (Cushing's syndrome)",
+        "Keratoconjunctivitis sicca (KCS) - \"dry eye\"",
+        "Legg-CalvÃ©-Perthes disease",
+        "Patellar luxation",
+        "Patent ductus arteriosus (PDA)",
+        "Portosystemic shunt",
+        "Progressive retinal atrophy",
+        "Retinal dysplasia",
+        "Shaker dog syndrome",
+        "Urolithiasis (stones)",
+        "colour dilution alopecia",
+        "congenital hypotrichosis",
+        "tracheal collapse"
+      ],
+      "other_disorders": [
+        "Corneal dystrophy",
+        "dermoid sinus"
+      ]
+    }
+  ]
+}
