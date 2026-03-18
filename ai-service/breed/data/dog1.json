@@ -1,0 +1,31 @@
+[
+  {
+    "filename": "dog1.jpg",
+    "created_at": "2026-03-18T15:49:49.125434",
+    "is_purebred": false,
+    "breed_en": "Pomeranian",
+    "breed_ko": "포메라니안",
+    "size": "소형",
+    "top3": [
+      {
+        "rank": 1,
+        "breed": "Pomeranian",
+        "probability": 0.2519,
+        "probability_pct": "25.19%"
+      },
+      {
+        "rank": 2,
+        "breed": "Malamute",
+        "probability": 0.1716,
+        "probability_pct": "17.16%"
+      },
+      {
+        "rank": 3,
+        "breed": "Siberian Husky",
+        "probability": 0.1614,
+        "probability_pct": "16.14%"
+      }
+    ],
+    "threshold": 0.5
+  }
+]
