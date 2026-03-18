@@ -4959,26 +4959,26 @@ index,breed_model,breed_CIDD,disease,genetic_disease,effective_ingredients,food
 31,cairn,Cairn terrier,Hydrocephalus,1,"Sardines, Sweet potato, Cod liver oil",Sardines & Sweet potato with Cod liver oil
 31,cairn,Cairn terrier,Hydrocephalus,1,"Sardines, Spinach, Sweet potato",Sardines with Spinach & Sweet potato
 31,cairn,Cairn terrier,Hydrocephalus,1,"Eggs, Sweet potato, Broccoli, Spinach, Blueberry",Seizure Shield Eggs Plate
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines, Blueberries",Sardines & Blueberries Bowl
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
-31,cairn,Cairn terrier,Legg-CalvÃ©-Perthes disease,1,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Sardines, Blueberries",Sardines & Blueberries Bowl
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
+31,cairn,Cairn terrier,Legg-Calv??-Perthes disease,1,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
 31,cairn,Cairn terrier,Mitral valve dysplasia,1,"Beef, Brown rice",Beef & Brown rice Bowl
 31,cairn,Cairn terrier,Mitral valve dysplasia,1,"Beef, Oats",Beef & Oats Porridge
 31,cairn,Cairn terrier,Mitral valve dysplasia,1,"Beef heart, Spinach, Brown rice",Beef heart & Spinach Brown Rice Bowl
@@ -14057,26 +14057,26 @@ index,breed_model,breed_CIDD,disease,genetic_disease,effective_ingredients,food
 71,Lakeland_terrier,Lakeland terrier,"Cryptorchidism, retained testicle",0,"Tuna, Spinach, Sweet potato",Tuna with Spinach & Sweet potato
 71,Lakeland_terrier,Lakeland terrier,"Cryptorchidism, retained testicle",0,"Sardine, Sweet potato, Spinach, Blueberry",Vitality Sardine Dinner #3
 71,Lakeland_terrier,Lakeland terrier,"Cryptorchidism, retained testicle",0,"Egg (whole), Sweet potato, Spinach, Blueberry",Wellness Egg Bowl #1
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines, Blueberries",Sardines & Blueberries Bowl
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
-71,Lakeland_terrier,Lakeland terrier,Legg-CalvÃ©-Perthes disease,1,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Sardines, Blueberries",Sardines & Blueberries Bowl
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
+71,Lakeland_terrier,Lakeland terrier,Legg-Calv??-Perthes disease,1,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
 71,Lakeland_terrier,Lakeland terrier,Microphthalmia; ocular dysgenesis,0,"Beef, Carrot, Lentils",Beef & Carrot Lentils Stew
 71,Lakeland_terrier,Lakeland terrier,Microphthalmia; ocular dysgenesis,0,"Beef, Kale, Lentils",Beef & Kale Lentils Stew
 71,Lakeland_terrier,Lakeland terrier,Microphthalmia; ocular dysgenesis,0,"Beef, Pumpkin, Lentils",Beef & Pumpkin Lentils Stew
@@ -14457,26 +14457,26 @@ index,breed_model,breed_CIDD,disease,genetic_disease,effective_ingredients,food
 73,EntleBucher,Lowchen,Cataracts,0,"Sardines, Broccoli, Chickpeas",Sardines & Broccoli Chickpeas Stew
 73,EntleBucher,Lowchen,Cataracts,0,"Sardines, Peas, Chickpeas",Sardines & Peas Chickpeas Stew
 73,EntleBucher,Lowchen,Cataracts,0,"Salmon, Sweet potato, Carrot, Kale, Sunflower seeds",Vision Shield Salmon Stew
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Sardines, Blueberries",Sardines & Blueberries Bowl
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
-73,EntleBucher,Lowchen,Legg-CalvÃ©-Perthes disease,0,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Sardines, Blueberries",Sardines & Blueberries Bowl
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
+73,EntleBucher,Lowchen,Legg-Calv??-Perthes disease,0,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
 73,EntleBucher,Lowchen,Patellar luxation,0,"Beef trachea, Blueberries",Beef trachea & Blueberries Bowl
 73,EntleBucher,Lowchen,Patellar luxation,0,"Beef trachea, Sweet potato, Blueberries",Beef trachea & Sweet potato Bowl with Blueberries
 73,EntleBucher,Lowchen,Patellar luxation,0,"Bone broth, Kale, Blueberries",Bone broth & Kale Bowl with Blueberries
@@ -15077,26 +15077,26 @@ index,breed_model,breed_CIDD,disease,genetic_disease,effective_ingredients,food
 77,miniature_pinscher,Miniature pinscher,Disorders of sexual development - sexual reversal,1,"Turkey, Chickpeas",Turkey & Chickpeas Stew
 77,miniature_pinscher,Miniature pinscher,Disorders of sexual development - sexual reversal,1,"Sardine, Sweet potato, Chickpeas, Spinach, Blueberry",Vitality Sardine Dinner #3
 77,miniature_pinscher,Miniature pinscher,Disorders of sexual development - sexual reversal,1,"Egg (whole), Sweet potato, Spinach, Carrot, Blueberry",Wellness Egg Bowl #1
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Sardines, Blueberries",Sardines & Blueberries Bowl
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
-77,miniature_pinscher,Miniature pinscher,Legg-CalvÃ©-Perthes disease,1,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Sardines, Blueberries",Sardines & Blueberries Bowl
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
+77,miniature_pinscher,Miniature pinscher,Legg-Calv??-Perthes disease,1,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
 77,miniature_pinscher,Miniature pinscher,Mitral valve dysplasia,1,"Beef, Brown rice",Beef & Brown rice Bowl
 77,miniature_pinscher,Miniature pinscher,Mitral valve dysplasia,1,"Beef, Oats",Beef & Oats Porridge
 77,miniature_pinscher,Miniature pinscher,Mitral valve dysplasia,1,"Beef heart, Spinach, Brown rice",Beef heart & Spinach Brown Rice Bowl
@@ -17556,26 +17556,26 @@ index,breed_model,breed_CIDD,disease,genetic_disease,effective_ingredients,food
 88,miniature_schnauzer,"Poodle, miniature","Keratoconjunctivitis sicca (KCS) - ""dry eye""",1,"Sardines, Sweet potato, Cod liver oil",Sardines & Sweet potato with Cod liver oil
 88,miniature_schnauzer,"Poodle, miniature","Keratoconjunctivitis sicca (KCS) - ""dry eye""",1,"Sardines, Carrot, Sweet potato",Sardines with Carrot & Sweet potato
 88,miniature_schnauzer,"Poodle, miniature","Keratoconjunctivitis sicca (KCS) - ""dry eye""",1,"Salmon, Pumpkin, Carrot, Kale, Pumpkin seeds",Vision Shield Salmon Stew #2
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Sardines, Blueberries",Sardines & Blueberries Bowl
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
-88,miniature_schnauzer,"Poodle, miniature",Legg-CalvÃ©-Perthes disease,1,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Sardines, Blueberries",Sardines & Blueberries Bowl
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
+88,miniature_schnauzer,"Poodle, miniature",Legg-Calv??-Perthes disease,1,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
 88,miniature_schnauzer,"Poodle, miniature","Lupus erythematosus (systemic, cutaneous/discoid)",1,"Beef liver, Apple",Beef liver & Apple Bowl
 88,miniature_schnauzer,"Poodle, miniature","Lupus erythematosus (systemic, cutaneous/discoid)",1,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
 88,miniature_schnauzer,"Poodle, miniature","Lupus erythematosus (systemic, cutaneous/discoid)",1,"Chicken, Blueberries",Chicken & Blueberries Bowl
@@ -18474,26 +18474,26 @@ index,breed_model,breed_CIDD,disease,genetic_disease,effective_ingredients,food
 90,dhole,"Poodle, toy",Immune-mediated thrombocytopenia,1,"Sardines, Spinach, Blueberries",Sardines & Spinach Bowl with Blueberries
 90,dhole,"Poodle, toy",Immune-mediated thrombocytopenia,1,"Sardines, Sweet potato, Blueberries",Sardines & Sweet potato Bowl with Blueberries
 90,dhole,"Poodle, toy",Immune-mediated thrombocytopenia,1,"Sardine, Sweet potato, Kale, Turmeric (small amounts with black pepper), Blueberries",Vital Blood Sardine Dinner
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Sardines, Blueberries",Sardines & Blueberries Bowl
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
-90,dhole,"Poodle, toy",Legg-CalvÃ©-Perthes disease,1,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Sardines, Blueberries",Sardines & Blueberries Bowl
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
+90,dhole,"Poodle, toy",Legg-Calv??-Perthes disease,1,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
 90,dhole,"Poodle, toy",Microphthalmia; ocular dysgenesis,1,"Beef, Carrot, Lentils",Beef & Carrot Lentils Stew
 90,dhole,"Poodle, toy",Microphthalmia; ocular dysgenesis,1,"Beef, Kale, Lentils",Beef & Kale Lentils Stew
 90,dhole,"Poodle, toy",Microphthalmia; ocular dysgenesis,1,"Beef, Pumpkin, Lentils",Beef & Pumpkin Lentils Stew
@@ -18873,26 +18873,26 @@ index,breed_model,breed_CIDD,disease,genetic_disease,effective_ingredients,food
 91,pug,Pug,"Keratoconjunctivitis sicca (KCS) - ""dry eye""",1,"Sardines, Sweet potato, Cod liver oil",Sardines & Sweet potato with Cod liver oil
 91,pug,Pug,"Keratoconjunctivitis sicca (KCS) - ""dry eye""",1,"Sardines, Carrot, Sweet potato",Sardines with Carrot & Sweet potato
 91,pug,Pug,"Keratoconjunctivitis sicca (KCS) - ""dry eye""",1,"Salmon, Pumpkin, Carrot, Kale, Pumpkin seeds",Vision Shield Salmon Stew #2
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Sardines, Blueberries",Sardines & Blueberries Bowl
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
-91,pug,Pug,Legg-CalvÃ©-Perthes disease,0,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Sardines, Blueberries",Sardines & Blueberries Bowl
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
+91,pug,Pug,Legg-Calv??-Perthes disease,0,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
 91,pug,Pug,Meningitis,1,"Eggs, Sweet potato, Broccoli, Spinach, Blueberry",Care Blend Eggs Plate #5
 91,pug,Pug,Meningitis,1,"Chicken, Sweet potato, Kale, Broccoli, Flaxseed",Health Guard Chicken Mix #4
 91,pug,Pug,Meningitis,1,"Herring, Bell pepper, Sunflower seeds",Herring & Bell pepper with Sunflower seeds
@@ -22392,26 +22392,26 @@ index,breed_model,breed_CIDD,disease,genetic_disease,effective_ingredients,food
 107,silky_terrier,Silky terrier,Cataracts,0,"Sardines, Broccoli, Chickpeas",Sardines & Broccoli Chickpeas Stew
 107,silky_terrier,Silky terrier,Cataracts,0,"Sardines, Peas, Chickpeas",Sardines & Peas Chickpeas Stew
 107,silky_terrier,Silky terrier,Cataracts,0,"Salmon, Sweet potato, Carrot, Kale, Sunflower seeds",Vision Shield Salmon Stew
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines, Blueberries",Sardines & Blueberries Bowl
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
-107,silky_terrier,Silky terrier,Legg-CalvÃ©-Perthes disease,1,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Sardines, Blueberries",Sardines & Blueberries Bowl
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
+107,silky_terrier,Silky terrier,Legg-Calv??-Perthes disease,1,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
 107,silky_terrier,Silky terrier,Leukodystrophies,1,"Beef liver, Spinach, Sweet potato",Beef liver with Spinach & Sweet potato
 107,silky_terrier,Silky terrier,Leukodystrophies,1,"Eggs, Sweet potato, Spinach, Blueberry",Care Blend Eggs Plate #5
 107,silky_terrier,Silky terrier,Leukodystrophies,1,"Egg (whole), Sweet potato, Spinach, Sunflower seeds",Health Guard Egg Mix #4
@@ -23732,26 +23732,26 @@ index,breed_model,breed_CIDD,disease,genetic_disease,effective_ingredients,food
 117,West_Highland_white_terrier,West Highland white terrier,"Keratoconjunctivitis sicca (KCS) - ""dry eye""",1,"Sardines, Sweet potato, Cod liver oil",Sardines & Sweet potato with Cod liver oil
 117,West_Highland_white_terrier,West Highland white terrier,"Keratoconjunctivitis sicca (KCS) - ""dry eye""",1,"Sardines, Carrot, Sweet potato",Sardines with Carrot & Sweet potato
 117,West_Highland_white_terrier,West Highland white terrier,"Keratoconjunctivitis sicca (KCS) - ""dry eye""",1,"Salmon, Pumpkin, Carrot, Kale, Pumpkin seeds",Vision Shield Salmon Stew #2
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines, Blueberries",Sardines & Blueberries Bowl
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
-117,West_Highland_white_terrier,West Highland white terrier,Legg-CalvÃ©-Perthes disease,1,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Sardines, Blueberries",Sardines & Blueberries Bowl
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
+117,West_Highland_white_terrier,West Highland white terrier,Legg-Calv??-Perthes disease,1,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
 117,West_Highland_white_terrier,West Highland white terrier,Mellitus,1,"Lean beef, Brown rice, Broccoli, Spinach, Flaxseed",Care Blend Lean beef Plate
 117,West_Highland_white_terrier,West Highland white terrier,Mellitus,1,"Sardine, Barley, Spinach, Broccoli, Pumpkin seeds",Health Guard Sardine Mix #4
 117,West_Highland_white_terrier,West Highland white terrier,Mellitus,1,"Lean beef, Broccoli, Barley",Lean beef & Broccoli Barley Bowl
@@ -24232,26 +24232,26 @@ index,breed_model,breed_CIDD,disease,genetic_disease,effective_ingredients,food
 119,Yorkshire_terrier,Yorkshire terrier,"Keratoconjunctivitis sicca (KCS) - ""dry eye""",1,"Sardines, Sweet potato, Cod liver oil",Sardines & Sweet potato with Cod liver oil
 119,Yorkshire_terrier,Yorkshire terrier,"Keratoconjunctivitis sicca (KCS) - ""dry eye""",1,"Sardines, Carrot, Sweet potato",Sardines with Carrot & Sweet potato
 119,Yorkshire_terrier,Yorkshire terrier,"Keratoconjunctivitis sicca (KCS) - ""dry eye""",1,"Salmon, Pumpkin, Carrot, Kale, Pumpkin seeds",Vision Shield Salmon Stew #2
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines, Blueberries",Sardines & Blueberries Bowl
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
-119,Yorkshire_terrier,Yorkshire terrier,Legg-CalvÃ©-Perthes disease,1,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Beef liver, Blueberries",Beef liver & Blueberries Bowl
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Bone broth, Blueberries",Bone broth & Blueberries Bowl
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Bone meal, Broccoli, Blueberries",Bone meal & Broccoli Bowl with Blueberries
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Bone meal, Kale, Blueberries",Bone meal & Kale Bowl with Blueberries
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Bone meal, Kale, Broccoli",Bone meal with Kale & Broccoli
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Sardine, Sweet potato, Kale, Broccoli, Blueberries",Cartilage Care Sardine Dinner #3
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Chicken feet, Blueberries",Chicken feet & Blueberries Bowl
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Egg yolk, Blueberries",Egg yolk & Blueberries Bowl
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Egg yolk, Sweet potato, Blueberries",Egg yolk & Sweet potato Bowl with Blueberries
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Chicken cartilage, Sweet potato, Bell pepper, Kale, Cod liver oil",Flex & Move Chicken cartilage Stew
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Green-lipped mussel, Blueberries",Green-lipped mussel & Blueberries Bowl
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Salmon, Sweet potato, Broccoli, Bell pepper, Blueberries",Joint Shield Salmon Bowl #1
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Chicken feet, Sweet potato, Bell pepper, Kale, Blueberries",Joint Support Chicken feet Plate #5
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Salmon, Bell pepper, Blueberries",Salmon & Bell pepper Bowl with Blueberries
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Salmon, Sweet potato, Blueberries",Salmon & Sweet potato Bowl with Blueberries
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Sardines, Blueberries",Sardines & Blueberries Bowl
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Sardines with bones, Bell pepper, Blueberries",Sardines with bones & Bell pepper Bowl with Blueberries
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Sardines with bones, Broccoli, Blueberries",Sardines with bones & Broccoli Bowl with Blueberries
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Sardines with bones, Kale, Blueberries",Sardines with bones & Kale Bowl with Blueberries
+119,Yorkshire_terrier,Yorkshire terrier,Legg-Calv??-Perthes disease,1,"Beef liver, Sweet potato, Broccoli, Bell pepper, Cod liver oil",Strong Bones Beef liver Mix #4
 119,Yorkshire_terrier,Yorkshire terrier,Patellar luxation,1,"Beef trachea, Blueberries",Beef trachea & Blueberries Bowl
 119,Yorkshire_terrier,Yorkshire terrier,Patellar luxation,1,"Beef trachea, Sweet potato, Blueberries",Beef trachea & Sweet potato Bowl with Blueberries
 119,Yorkshire_terrier,Yorkshire terrier,Patellar luxation,1,"Bone broth, Kale, Blueberries",Bone broth & Kale Bowl with Blueberries
