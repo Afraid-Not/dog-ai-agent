@@ -1,23 +1,11 @@
 """
-강아지 이미지를 분류하고 결과를 Supabase dog_classifications 테이블에 업로드하는 스크립트
+강아지 이미지를 분류하고 결과를 JSON 파일로 저장하는 스크립트
 
 사용법:
-  단일 이미지: python upload_to_supabase.py dog.jpg
-  폴더 전체:   python upload_to_supabase.py ./images/
-  임계값 지정: python upload_to_supabase.py ./images/ --threshold 0.5
-
-Supabase 테이블 DDL:
-  create table dog_classifications (
-    id          uuid primary key default gen_random_uuid(),
-    filename    text,
-    is_purebred boolean,
-    breed_en    text,
-    breed_ko    text,
-    size        text,
-    top3        jsonb,
-    threshold   float4,
-    created_at  timestamptz default now()
-  );
+  단일 이미지: python savetojson.py dog.jpg          → data/dog.json
+  폴더 전체:   python savetojson.py ./images/         → data/{이미지명}.json (개별 저장)
+  임계값 지정: python savetojson.py ./images/ --threshold 0.5
+  출력 폴더:   python savetojson.py ./images/ --outdir results/
 """
 
 import os
@@ -25,25 +13,32 @@ os.environ['TF_CPP_MIN_LOG_LEVEL'] = '2'
 
 import argparse
 import json
+from datetime import datetime
 from pathlib import Path
 
 import numpy as np
-import tensorflow as tf
+import tf_keras
 from PIL import Image
-from dotenv import load_dotenv
-from supabase import create_client
 
 # ── 설정 ──────────────────────────────────────────────────────────────────────
 MODEL_PATH      = "trained_models/model_1.h5"
 BREED_DATA_FILE = "breed_data.json"
 INPUT_SIZE      = (224, 224)
-MIXED_THRESHOLD = 0.40
+MIXED_THRESHOLD = 0.50
 TOP_K           = 3
 IMAGE_EXTS      = {".jpg", ".jpeg", ".png", ".bmp", ".webp"}
 
 # ── 리소스 로드 ────────────────────────────────────────────────────────────────
+class FixedDepthwiseConv2D(tf_keras.layers.DepthwiseConv2D):
+    def __init__(self, **kwargs):
+        kwargs.pop('groups', None)
+        super().__init__(**kwargs)
+
 print("모델 로딩 중...")
-model = tf.keras.models.load_model(MODEL_PATH)
+model = tf_keras.models.load_model(
+    MODEL_PATH,
+    custom_objects={'DepthwiseConv2D': FixedDepthwiseConv2D}
+)
 print("모델 로딩 완료.")
 
 with open(BREED_DATA_FILE, 'r', encoding='utf-8') as f:
@@ -82,19 +77,12 @@ def predict(pil_image: Image.Image, threshold: float = MIXED_THRESHOLD):
 
 # ── 메인 ──────────────────────────────────────────────────────────────────────
 def main():
-    load_dotenv()
-
-    url = os.getenv("SUPABASE_URL")
-    key = os.getenv("SUPABASE_KEY")
-    if not url or not key:
-        raise ValueError(".env 파일에 SUPABASE_URL 과 SUPABASE_KEY 를 설정하세요.")
-
-    supabase = create_client(url, key)
-
-    parser = argparse.ArgumentParser(description="강아지 종 분류 결과를 Supabase에 업로드")
+    parser = argparse.ArgumentParser(description="강아지 종 분류 결과를 JSON 파일로 저장")
     parser.add_argument("path", help="이미지 파일 또는 폴더 경로")
     parser.add_argument("--threshold", type=float, default=MIXED_THRESHOLD,
                         help=f"순종 판단 임계값 (기본값: {MIXED_THRESHOLD})")
+    parser.add_argument("--outdir", default="data",
+                        help="결과 JSON을 저장할 폴더 (기본값: data)")
     args = parser.parse_args()
 
     target = Path(args.path)
@@ -105,16 +93,24 @@ def main():
     else:
         raise FileNotFoundError(f"경로를 찾을 수 없습니다: {target}")
 
+    out_dir = Path(args.outdir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+
     print(f"총 {len(image_paths)}개 이미지 처리 시작\n")
 
     success, fail = 0, 0
     for img_path in image_paths:
         try:
             result = predict(Image.open(img_path), threshold=args.threshold)
-            supabase.table("dog_classifications").insert({"filename": img_path.name, **result}).execute()
+            record = {"filename": img_path.name, "created_at": datetime.now().isoformat(), **result}
+
+            output_path = out_dir / (img_path.stem + ".json")
+            with open(output_path, 'w', encoding='utf-8') as f:
+                json.dump(record, f, ensure_ascii=False, indent=2)
 
             purity = "순종" if result["is_purebred"] else "잡종"
             print(f"[OK] {img_path.name}  →  {purity} | {result['breed_en']} | {result['breed_ko']} | {result['size']}")
+            print(f"     저장: {output_path.resolve()}")
             success += 1
         except Exception as e:
             print(f"[FAIL] {img_path.name}: {e}")
