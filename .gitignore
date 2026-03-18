@@ -5,3 +5,6 @@ ai-service/trained_models/
 data/dog-disease/
 data/Training/
 data/Validation/
+CLAUDE.md
+.claude/
+__pycache__/
