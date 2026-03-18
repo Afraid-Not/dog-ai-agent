@@ -1,0 +1,161 @@
+index,breed_model,breed_CIDD,match_type
+0,affenpinscher,Affenpinscher,yes
+1,Afghan_hound,Afghan hound,yes
+2,Airedale,Airedale terrier,yes
+3,,Akbash dog,cidd_only
+4,,Akita,cidd_only
+5,malamute,Alaskan malamute,yes
+6,American_Staffordshire_terrier,American Staffordshire terrier,yes
+7,African_hunting_dog,American bulldog,similar
+8,Eskimo_dog,American eskimo dog,yes
+9,,American pit bull terrier,cidd_only
+10,Mexican_hairless,American water spaniel,similar
+11,,Australian cattle dog,cidd_only
+12,kelpie,Australian kelpie,yes
+13,,Australian shepherd,cidd_only
+14,Australian_terrier,Australian terrier,yes
+15,basenji,Basenji,yes
+16,basset,Basset Griffon Vendeen,yes
+17,Walker_hound,Basset hound,similar
+18,beagle,Beagle,yes
+19,collie,Bearded collie,yes
+20,Bedlington_terrier,Bedlington terrier,yes
+21,malinois,Belgian Malinois,yes
+22,,Belgian Tervuren,cidd_only
+23,,Belgian sheepdog,cidd_only
+24,Bernese_mountain_dog,Bernese mountain dog,yes
+25,,Bichon frise,cidd_only
+26,,Black Russian terrier,cidd_only
+27,black-and-tan_coonhound,Black and tan coonhound,yes
+28,bloodhound,Bloodhound,yes
+29,bluetick,Bluetick coonhound,yes
+30,Border_collie,Border collie,yes
+31,Border_terrier,Border terrier,yes
+32,borzoi,Borzoi,yes
+33,Boston_bull,Boston terrier,similar
+34,Bouvier_des_Flandres,Bouvier des Flandres,yes
+35,boxer,Boxer,yes
+36,briard,Briard,yes
+37,Brittany_spaniel,Brittany,yes
+38,Brabancon_griffon,Brussels Griffon,similar
+39,,Bull Terrier - Miniature,cidd_only
+40,bull_mastiff,Bull mastiff,yes
+41,,Bull terrier,cidd_only
+42,cairn,Cairn terrier,yes
+43,,Canaan dog,cidd_only
+44,Cardigan,Cardigan Welsh Corgi,yes
+45,,Cavalier King Charles spaniel,cidd_only
+46,Chesapeake_Bay_retriever,Chesapeake Bay retriever,yes
+47,Chihuahua,Chihuahua,yes
+48,chow,Chow chow,yes
+49,clumber,Clumber spaniel,yes
+50,cocker_spaniel,"Cocker spaniel, American",yes
+51,,"Cocker spaniel, English",cidd_only
+52,,Collie (rough and smooth),cidd_only
+53,toy_poodle,Coton de tulear,similar
+54,curly-coated_retriever,Curly coated retriever,yes
+55,,Dachshund,cidd_only
+56,dingo,Dalmatian,similar
+57,Dandie_Dinmont,Dandie Dinmont Terrier,yes
+58,Doberman,Doberman pinscher,yes
+59,,English (British) bulldog,cidd_only
+60,English_foxhound,English foxhound,yes
+61,English_setter,English setter,yes
+62,English_springer,English springer spaniel,yes
+63,,English toy spaniel,cidd_only
+64,,Field spaniel,cidd_only
+65,,Finnish spitz,cidd_only
+66,flat-coated_retriever,Flat-coated retriever,yes
+67,,"Fox terrier, smooth",cidd_only
+68,,"Fox terrier, wire hair",cidd_only
+69,French_bulldog,French bulldog,yes
+70,German_shepherd,German shepherd,yes
+71,German_short-haired_pointer,German shorthaired pointer,similar
+72,wire-haired_fox_terrier,German wirehaired pointer,similar
+73,golden_retriever,Golden retriever,yes
+74,Gordon_setter,Gordon setter,yes
+75,Great_Dane,Great Dane,yes
+76,Great_Pyrenees,Great Pyrenees,yes
+77,Greater_Swiss_Mountain_dog,Greater Swiss mountain dog,yes
+78,groenendael,Greyhound,similar
+79,,Harrier,cidd_only
+80,Pekinese,Havanese,similar
+81,Ibizan_hound,Ibizan hound,yes
+82,Irish_setter,Irish setter,yes
+83,Irish_terrier,Irish terrier,yes
+84,Irish_water_spaniel,Irish water spaniel,yes
+85,Irish_wolfhound,Irish wolfhound,yes
+86,Italian_greyhound,Italian greyhound,yes
+87,Japanese_spaniel,Japanese Chin,similar
+88,Leonberg,Karelien bear dog,similar
+89,keeshond,Keeshond,yes
+90,Kerry_blue_terrier,Kerry blue terrier,yes
+91,komondor,Komondor,yes
+92,kuvasz,Kuvasz,yes
+93,Labrador_retriever,Labrador retriever,yes
+94,Lakeland_terrier,Lakeland terrier,yes
+95,,Large Munsterlander,cidd_only
+96,Lhasa,Lhasa apso,yes
+97,EntleBucher,Lowchen,similar
+98,Maltese_dog,Maltese terrier,similar
+99,,Manchester terrier,cidd_only
+100,Tibetan_mastiff,Mastiff,yes
+101,miniature_poodle,Miniature bull terrier,similar
+102,miniature_pinscher,Miniature pinscher,yes
+103,,Neapolitan mastiff,cidd_only
+104,Newfoundland,Newfoundland,yes
+105,Norfolk_terrier,Norfolk terrier,yes
+106,Norwegian_elkhound,Norwegian elkhound,yes
+107,Norwich_terrier,Norwich terrier,yes
+108,,Nova Scotia duck tolling retriever,cidd_only
+109,Old_English_sheepdog,Old English sheepdog,yes
+110,otterhound,Otterhound,yes
+111,papillon,Papillon,yes
+112,,Parson (Jack) Russell terrier,cidd_only
+113,Appenzeller,Pekingese,similar
+114,Pembroke,Pembroke Welsh corgi,yes
+115,,Pharaoh hound,cidd_only
+116,,Plott hound,cidd_only
+117,,Pointer (English pointer),cidd_only
+118,Pomeranian,Pomeranian,yes
+119,miniature_schnauzer,"Poodle, miniature",similar
+120,standard_poodle,"Poodle, standard",similar
+121,dhole,"Poodle, toy",similar
+122,,Portuguese water dog,cidd_only
+123,pug,Pug,yes
+124,,Puli,cidd_only
+125,redbone,Redbone coonhound,yes
+126,Rhodesian_ridgeback,Rhodesian ridgeback,yes
+127,Rottweiler,Rottweiler,yes
+128,Saint_Bernard,Saint Bernard,yes
+129,Saluki,Saluki,yes
+130,Samoyed,Samoyed,yes
+131,schipperke,Schipperke,yes
+132,giant_schnauzer,"Schnauzer, giant",similar
+133,,"Schnauzer, miniature",cidd_only
+134,standard_schnauzer,"Schnauzer, standard",similar
+135,Scottish_deerhound,Scottish deerhound,yes
+136,Scotch_terrier,Scottish terrier,similar
+137,Sealyham_terrier,Sealyham terrier,yes
+138,,Shar-pei (Chinese shar-pei),cidd_only
+139,Shetland_sheepdog,Shetland sheepdog,yes
+140,,Shiba Inu,cidd_only
+141,Shih-Tzu,Shih tzu,yes
+142,Siberian_husky,Siberian husky,yes
+143,silky_terrier,Silky terrier,yes
+144,toy_terrier,Skye terrier,similar
+145,soft-coated_wheaten_terrier,Soft coated wheaten terrier,yes
+146,,Sough African Boerboel,cidd_only
+147,Staffordshire_bullterrier,Staffordshire bull terrier,similar
+148,Sussex_spaniel,Sussex spaniel,yes
+149,Blenheim_spaniel,Tibetan spaniel,similar
+150,Tibetan_terrier,Tibetan terrier,yes
+151,vizsla,Vizsla,yes
+152,Weimaraner,Weimaraner,yes
+153,,"Welsh Corgi, Cardigan",cidd_only
+154,Welsh_springer_spaniel,Welsh springer spaniel,yes
+155,,Welsh terrier,cidd_only
+156,West_Highland_white_terrier,West Highland white terrier,yes
+157,whippet,Whippet,yes
+158,,Wire-haired pointing griffon,cidd_only
+159,Yorkshire_terrier,Yorkshire terrier,yes
