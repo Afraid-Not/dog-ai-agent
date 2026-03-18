@@ -19,7 +19,7 @@ from torchvision import transforms
 from PIL import Image
 
 # 프로젝트 모듈
-from embedding_model import DogEmbeddingModel, load_keras_weights
+from train_embedding_model import DogEmbeddingModel, load_keras_weights
 
 
 # ======================================================================
@@ -27,13 +27,13 @@ from embedding_model import DogEmbeddingModel, load_keras_weights
 # ======================================================================
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 H5_PATH = os.path.join(BASE_DIR, 'trained_models', 'model_1.h5')
-SAVE_PATH = os.path.join(BASE_DIR, 'trained_models', 'embedding_model_trained.pth')
+SAVE_PATH = os.path.join(BASE_DIR, 'trained_models', 'embedding_model.pth')
 
-BATCH_SIZE = 32
-NUM_EPOCHS = 10
+BATCH_SIZE = 128
+NUM_EPOCHS = 100
 LEARNING_RATE = 1e-3
 MARGIN = 0.3          # Triplet loss margin
-EMBEDDING_DIM = 128
+EMBEDDING_DIM = 256
 NUM_BREEDS = 120
 DEVICE = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
@@ -61,7 +61,7 @@ class StanfordDogsDataset(Dataset):
             split=split,
             as_supervised=False,
             with_info=True,
-            data_dir='data/tfds'
+            data_dir='data/Images'
         )
 
         # numpy로 변환

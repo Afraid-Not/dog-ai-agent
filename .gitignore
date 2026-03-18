@@ -2,3 +2,6 @@ data/Annotation/
 data/Images/
 embedding_output/
 ai-service/trained_models/
+data/dog-disease/
+data/Training/
+data/Validation/
