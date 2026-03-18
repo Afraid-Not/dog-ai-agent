@@ -14,3 +14,8 @@ ai-service/dog-detection/not_dog
 ai-service/dog-detection/yes_dog
 __pycache__
 .env
+.env
+ai-service/gen-img/output/
+**/__pycache__/
+*/__pycache__/
+***/__pycache__/
