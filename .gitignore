@@ -10,3 +10,4 @@ ai-service/breed/trained_models/*
 !ai-service/breed/trained_models/
 !ai-service/breed/trained_models/*.h5
 data/dog-disease/
+.env
