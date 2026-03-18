@@ -1,0 +1,29 @@
+{
+  "filename": "dog2.jpg",
+  "created_at": "2026-03-18T17:47:59.643818",
+  "is_purebred": true,
+  "breed_en": "Siberian Husky",
+  "breed_ko": "시베리안 허스키",
+  "size": "대형",
+  "top3": [
+    {
+      "rank": 1,
+      "breed": "Siberian Husky",
+      "probability": 0.7518,
+      "probability_pct": "75.18%"
+    },
+    {
+      "rank": 2,
+      "breed": "Eskimo Dog",
+      "probability": 0.1678,
+      "probability_pct": "16.78%"
+    },
+    {
+      "rank": 3,
+      "breed": "Malamute",
+      "probability": 0.0714,
+      "probability_pct": "7.14%"
+    }
+  ],
+  "threshold": 0.5
+}
