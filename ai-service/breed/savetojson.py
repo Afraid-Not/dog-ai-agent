@@ -21,8 +21,9 @@ import tf_keras
 from PIL import Image
 
 # ── 설정 ──────────────────────────────────────────────────────────────────────
-MODEL_PATH      = "trained_models/model_1.h5"
-BREED_DATA_FILE = "breed_data.json"
+_DIR            = Path(__file__).parent
+MODEL_PATH      = str(_DIR / "trained_models" / "model_1.h5")
+BREED_DATA_FILE = str(_DIR / "breed_data.json")
 INPUT_SIZE      = (224, 224)
 MIXED_THRESHOLD = 0.50
 TOP_K           = 3
@@ -34,18 +35,27 @@ class FixedDepthwiseConv2D(tf_keras.layers.DepthwiseConv2D):
         kwargs.pop('groups', None)
         super().__init__(**kwargs)
 
-print("모델 로딩 중...")
-model = tf_keras.models.load_model(
-    MODEL_PATH,
-    custom_objects={'DepthwiseConv2D': FixedDepthwiseConv2D}
-)
-print("모델 로딩 완료.")
+_model = None
+_breed_data = None
 
-with open(BREED_DATA_FILE, 'r', encoding='utf-8') as f:
-    BREED_DATA = json.load(f)  # list[{synset, en, ko, size}], 인덱스 = 모델 클래스 순서
+
+def _load_resources():
+    global _model, _breed_data
+    if _model is None:
+        print("모델 로딩 중...")
+        _model = tf_keras.models.load_model(
+            MODEL_PATH,
+            custom_objects={'DepthwiseConv2D': FixedDepthwiseConv2D}
+        )
+        print("모델 로딩 완료.")
+    if _breed_data is None:
+        with open(BREED_DATA_FILE, 'r', encoding='utf-8') as f:
+            _breed_data = json.load(f)
+    return _model, _breed_data
 
 # ── 예측 함수 ──────────────────────────────────────────────────────────────────
 def predict(pil_image: Image.Image, threshold: float = MIXED_THRESHOLD):
+    model, breed_data = _load_resources()
     img = pil_image.convert('RGB').resize(INPUT_SIZE)
     arr = np.array(img, dtype=np.float32) / 255.0
     arr = np.expand_dims(arr, axis=0)
@@ -55,7 +65,7 @@ def predict(pil_image: Image.Image, threshold: float = MIXED_THRESHOLD):
     top3 = [
         {
             "rank": rank + 1,
-            "breed": BREED_DATA[idx]["en"],
+            "breed": breed_data[idx]["en"],
             "probability": round(float(preds[idx]), 4),
             "probability_pct": f"{preds[idx] * 100:.2f}%"
         }
@@ -63,7 +73,7 @@ def predict(pil_image: Image.Image, threshold: float = MIXED_THRESHOLD):
     ]
 
     top1_idx    = top_indices[0]
-    top1_breed  = BREED_DATA[top1_idx]
+    top1_breed  = breed_data[top1_idx]
     is_purebred = top3[0]["probability"] >= threshold
 
     return {
@@ -74,6 +84,32 @@ def predict(pil_image: Image.Image, threshold: float = MIXED_THRESHOLD):
         "top3":        top3,
         "threshold":   threshold,
     }
+
+
+def save_to_json(image_path: str, outdir: str = "data", threshold: float = MIXED_THRESHOLD) -> str:
+    """
+    강아지 이미지를 분류하고 결과를 JSON 파일로 저장합니다.
+
+    Args:
+        image_path: 이미지 파일 경로
+        outdir: 결과 JSON을 저장할 폴더 (기본값: data)
+        threshold: 순종 판단 임계값
+
+    Returns:
+        저장된 JSON 파일의 절대 경로
+    """
+    img_path = Path(image_path)
+    result = predict(Image.open(img_path), threshold=threshold)
+    record = {"filename": img_path.name, "created_at": datetime.now().isoformat(), **result}
+
+    out_dir = Path(outdir)
+    out_dir.mkdir(parents=True, exist_ok=True)
+
+    output_path = out_dir / (img_path.stem + ".json")
+    with open(output_path, 'w', encoding='utf-8') as f:
+        json.dump(record, f, ensure_ascii=False, indent=2)
+
+    return str(output_path.resolve())
 
 # ── 메인 ──────────────────────────────────────────────────────────────────────
 def main():
@@ -96,6 +132,7 @@ def main():
     out_dir = Path(args.outdir)
     out_dir.mkdir(parents=True, exist_ok=True)
 
+    _load_resources()
     print(f"총 {len(image_paths)}개 이미지 처리 시작\n")
 
     success, fail = 0, 0
