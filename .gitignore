@@ -4,3 +4,5 @@ embedding_output/
 ai-service/trained_models/
 ai-service/breed/trained_models/
 deprecated/trained_models/
+CLAUDE.md
+.claude/
