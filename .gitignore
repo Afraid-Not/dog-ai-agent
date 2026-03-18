@@ -12,3 +12,6 @@ ai-service/breed/trained_models/*
 data/dog-disease/
 .env
 ai-service/gen-img/output/
+**/__pycache__/
+*/__pycache__/
+***/__pycache__/
