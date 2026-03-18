@@ -26,7 +26,16 @@ BASE_DIR = Path(__file__).resolve().parent
 DATA_DIR = BASE_DIR.parent.parent / "data"
 FEW_SHOT_PATH = BASE_DIR / "few_shot_samples.json"
 CSV_PATH = DATA_DIR / "breed_disease_food_combined.csv"
+BREED_DATA_PATH = BASE_DIR.parent / "breed" / "breed_data.json"
+FOOD_TRANS_PATH = BASE_DIR / "food_translation.json"
 ENV_PATH = BASE_DIR.parent.parent / ".env"
+
+# Serving size guide (per meal)
+SERVING_SIZE = {
+    "소형": "100~150g",
+    "중형": "200~300g",
+    "대형": "400~500g",
+}
 
 
 def load_env():
@@ -36,6 +45,53 @@ def load_env():
         print(f"[ERROR] OPENAI_API_KEY not found. Please set it in {ENV_PATH}")
         sys.exit(1)
     return api_key
+
+
+def load_breed_info():
+    """Load breed_data.json and build English->Korean name and size mappings."""
+    with open(BREED_DATA_PATH, "r", encoding="utf-8") as f:
+        breeds = json.load(f)
+    en_to_ko = {}
+    en_to_size = {}
+    for b in breeds:
+        key = b["en"].lower()
+        en_to_ko[key] = b["ko"]
+        en_to_size[key] = b["size"]
+    return en_to_ko, en_to_size
+
+
+def get_breed_ko(en_name, en_to_ko):
+    """Get Korean breed name with case-insensitive fuzzy matching."""
+    key = en_name.lower()
+    if key in en_to_ko:
+        return en_to_ko[key]
+    # Fuzzy: check if CSV breed name contains or is contained by a known name
+    for en_key, ko in en_to_ko.items():
+        if en_key in key or key in en_key:
+            return ko
+    return en_name  # fallback to English
+
+
+def get_breed_size(en_name, en_to_size):
+    """Get breed size with case-insensitive fuzzy matching."""
+    key = en_name.lower()
+    if key in en_to_size:
+        return en_to_size[key]
+    for en_key, size in en_to_size.items():
+        if en_key in key or key in en_key:
+            return size
+    return None
+
+
+def load_food_translation():
+    """Load food_translation.json for English->Korean food name mapping."""
+    with open(FOOD_TRANS_PATH, "r", encoding="utf-8") as f:
+        return json.load(f)
+
+
+def translate_food(name, food_trans):
+    """Translate a food name to Korean. Falls back to original if not found."""
+    return food_trans.get(name, name)
 
 
 def load_few_shot_samples():
@@ -103,16 +159,19 @@ def build_few_shot_messages(samples):
         inp = sample["input"]
         out = sample["output"]
 
+        size = inp.get("size", "")
+        size_info = f" ({size})" if size else ""
+
         if inp["disease"]:
             genetic_str = "유전성" if inp["genetic_disease"] == 1 else "비유전성"
             user_msg = (
-                f"우리 강아지 견종은 {inp['breed']}입니다. "
+                f"우리 강아지 견종은 {inp['breed']}{size_info}입니다. "
                 f"{inp['disease']} 위험이 있습니다 ({genetic_str}). "
-                f"어떤 음식을 추천하시나요?"
+                f"어떤 음식을 추천하시나요? 추천 이유, 재료, 만드는 법, 급여량도 알려주세요."
             )
         else:
             user_msg = (
-                f"우리 강아지 견종은 {inp['breed']}입니다. "
+                f"우리 강아지 견종은 {inp['breed']}{size_info}입니다. "
                 f"어떤 질병 위험이 있고, 어떤 음식을 추천하시나요?"
             )
 
@@ -126,6 +185,8 @@ def build_few_shot_messages(samples):
                 )
                 if "reason" in recipe:
                     assistant_msg += f"     추천 이유: {recipe['reason']}\n"
+                if "serving_size" in recipe:
+                    assistant_msg += f"     급여량: {recipe['serving_size']}\n"
                 if "recipe_steps" in recipe:
                     assistant_msg += "     만드는 법:\n"
                     for step_num, step in enumerate(recipe["recipe_steps"], 1):
@@ -154,7 +215,11 @@ def build_system_prompt():
         "6. 믹스견(혼합견)의 경우, 여러 견종에서 공통으로 나타나는 질병을 "
         "우선적으로 설명하고, 해당 질병에 맞는 레시피를 추천하세요. "
         "공통 질병이 없다면 각 견종의 주요 질병을 종합하여 추천하세요.\n"
-        "7. 따뜻하고 전문적인 어조로 응답하세요."
+        "7. 견종의 크기(소형/중형/대형)에 따라 1회 급여량을 안내하세요. "
+        "소형: 100~150g, 중형: 200~300g, 대형: 400~500g.\n"
+        "8. 견종명과 레시피명은 반드시 한국어로 표기하세요. "
+        "사용자 질문에 포함된 한국어 레시피명을 그대로 사용하세요.\n"
+        "9. 따뜻하고 전문적인 어조로 응답하세요."
     )
 
 
@@ -214,50 +279,64 @@ def select_disease(breed_data, breed):
         print("  Not found. Try again.")
 
 
-def build_user_query(breed, disease_name, disease_info):
+def build_user_query(breed, disease_name, disease_info, breed_ko=None, breed_size=None, food_trans=None):
     """Build the user query for the LLM."""
+    display_name = breed_ko if breed_ko else breed
+    size_info = f" ({breed_size}, 1회 급여량 {SERVING_SIZE[breed_size]})" if breed_size else ""
+    ft = food_trans or {}
+
     if disease_name is None:
         return (
-            f"우리 강아지 견종은 {breed}입니다. "
+            f"우리 강아지 견종은 {display_name}{size_info}입니다. "
             f"어떤 질병 위험이 있고, 어떤 음식을 추천하시나요?"
         )
 
     genetic_str = "유전성" if disease_info["genetic_disease"] == 1 else "비유전성"
     foods_context = disease_info["foods"][:5]
-    food_list = ", ".join(f['food'] for f in foods_context)
+    food_list = ", ".join(translate_food(f['food'], ft) for f in foods_context)
 
     return (
-        f"우리 강아지 견종은 {breed}입니다. "
+        f"우리 강아지 견종은 {display_name}{size_info}입니다. "
         f"{disease_name} 위험이 있습니다 ({genetic_str}). "
         f"선택 가능한 레시피: {food_list}. "
-        f"어떤 음식을 추천하시나요? 추천 이유, 재료, 만드는 법도 알려주세요."
+        f"어떤 음식을 추천하시나요? 추천 이유, 재료, 만드는 법, 급여량도 알려주세요."
     )
 
 
-def build_mix_query(breeds, common_diseases, single_diseases):
+def build_mix_query(breeds, common_diseases, single_diseases, en_to_ko, en_to_size, food_trans=None):
     """Build the user query for mixed breed dogs."""
-    breed_str = " + ".join(breeds)
-    query = f"우리 강아지는 {breed_str} 믹스견입니다.\n"
+    ft = food_trans or {}
+    breed_ko_list = [get_breed_ko(b, en_to_ko) for b in breeds]
+    breed_str = " + ".join(breed_ko_list)
+
+    # Determine size for mixed breed (use the largest)
+    size_priority = {"대형": 3, "중형": 2, "소형": 1}
+    sizes = [get_breed_size(b, en_to_size) for b in breeds]
+    sizes = [s for s in sizes if s]
+    mix_size = max(sizes, key=lambda s: size_priority.get(s, 0)) if sizes else None
+    size_info = f" ({mix_size}, 1회 급여량 {SERVING_SIZE[mix_size]})" if mix_size else ""
+
+    query = f"우리 강아지는 {breed_str} 믹스견{size_info}입니다.\n"
 
     if common_diseases:
         query += "\n공통 질병 위험 (여러 견종에서 공통):\n"
         for disease, data in common_diseases.items():
             genetic_str = "유전성" if data["info"]["genetic_disease"] == 1 else "비유전성"
-            from_breeds = ", ".join(data["breeds"])
+            from_breeds = ", ".join(get_breed_ko(b, en_to_ko) for b in data["breeds"])
             foods = data["info"]["foods"][:3]
-            food_list = ", ".join(f["food"] for f in foods)
+            food_list = ", ".join(translate_food(f["food"], ft) for f in foods)
             query += f"- {disease} ({genetic_str}, {from_breeds} 공통) / 레시피: {food_list}\n"
 
     if single_diseases:
         query += "\n개별 질병 위험:\n"
         for disease, data in single_diseases.items():
             genetic_str = "유전성" if data["info"]["genetic_disease"] == 1 else "비유전성"
-            from_breed = data["breeds"][0]
+            from_breed = get_breed_ko(data["breeds"][0], en_to_ko)
             foods = data["info"]["foods"][:3]
-            food_list = ", ".join(f["food"] for f in foods)
+            food_list = ", ".join(translate_food(f["food"], ft) for f in foods)
             query += f"- {disease} ({genetic_str}, {from_breed}) / 레시피: {food_list}\n"
 
-    query += "\n공통 질병을 우선으로 추천해주세요. 추천 이유, 재료, 만드는 법도 알려주세요."
+    query += "\n공통 질병을 우선으로 추천해주세요. 추천 이유, 재료, 만드는 법, 급여량도 알려주세요."
     return query
 
 
@@ -292,11 +371,13 @@ def main():
     client = OpenAI(api_key=api_key)
     samples = load_few_shot_samples()
     breed_data = load_breed_data()
+    en_to_ko, en_to_size = load_breed_info()
+    food_trans = load_food_translation()
     system_prompt = build_system_prompt()
     few_shot_messages = build_few_shot_messages(samples)
 
     print("=" * 60)
-    print("  Dog Breed Disease Recipe Recommender (Few-Shot LLM Test)")
+    print("  반려견 질병 기반 레시피 추천 시스템 (Few-Shot LLM)")
     print("=" * 60)
 
     # Select breed(s)
@@ -310,7 +391,7 @@ def main():
     for b_input in breed_inputs:
         matches = [b for b in breed_data if b_input.lower() in b.lower()]
         if not matches:
-            print(f"[ERROR] Breed '{b_input}' not found.")
+            print(f"[ERROR] 견종 '{b_input}'을(를) 찾을 수 없습니다.")
             sys.exit(1)
         resolved_breeds.append(matches[0])
 
@@ -318,42 +399,48 @@ def main():
 
     if is_mix:
         # Mixed breed mode
-        breed_str = " + ".join(resolved_breeds)
-        print(f"\nBreed (Mix): {breed_str}")
+        breed_ko_list = [get_breed_ko(b, en_to_ko) for b in resolved_breeds]
+        breed_str = " + ".join(breed_ko_list)
+        print(f"\n견종 (믹스): {breed_str}")
 
         common, single = merge_breed_diseases(breed_data, resolved_breeds)
 
         if not common and not single:
-            print("[INFO] No diseases found for any of the breeds.")
+            print("[INFO] 해당 견종들의 질병 정보가 없습니다.")
         else:
             if common:
                 print(f"\n[공통 질병] {len(common)}개 (우선)")
                 for d, data in common.items():
-                    print(f"  - {d} ({', '.join(data['breeds'])})")
+                    breeds_ko = ", ".join(get_breed_ko(b, en_to_ko) for b in data["breeds"])
+                    print(f"  - {d} ({breeds_ko})")
             if single:
                 print(f"\n[개별 질병] {len(single)}개")
                 for d, data in single.items():
-                    print(f"  - {d} ({data['breeds'][0]})")
+                    breed_ko = get_breed_ko(data["breeds"][0], en_to_ko)
+                    print(f"  - {d} ({breed_ko})")
 
-            query = build_mix_query(resolved_breeds, common, single)
+            query = build_mix_query(resolved_breeds, common, single, en_to_ko, en_to_size, food_trans)
             print(f"\n[Query] {query}")
             result = call_llm(client, system_prompt, few_shot_messages, query, args.model)
             print(f"\n[Response]\n{result}")
     else:
         # Single breed mode
         breed = resolved_breeds[0]
-        print(f"\nBreed: {breed}")
+        breed_ko = get_breed_ko(breed, en_to_ko)
+        breed_size = get_breed_size(breed, en_to_size)
+        size_str = f" ({breed_size})" if breed_size else ""
+        print(f"\n견종: {breed_ko}{size_str}")
 
         # Select disease
         if args.disease:
             diseases = breed_data.get(breed, {})
             matches = [d for d in diseases if args.disease.lower() in d.lower()]
             if not matches:
-                print(f"[ERROR] Disease '{args.disease}' not found for {breed}.")
+                print(f"[ERROR] '{args.disease}' 질병을 {breed_ko}에서 찾을 수 없습니다.")
                 sys.exit(1)
             disease_name = matches[0]
             disease_info = diseases[disease_name]
-            print(f"Disease: {disease_name}")
+            print(f"질병: {disease_name}")
         else:
             disease_name, disease_info = select_disease(breed_data, breed)
 
@@ -363,14 +450,14 @@ def main():
             for d_name in sorted(diseases.keys()):
                 d_info = diseases[d_name]
                 print(f"\n{'─' * 60}")
-                print(f"Disease: {d_name} ({'genetic' if d_info['genetic_disease'] == 1 else 'other'})")
+                print(f"질병: {d_name} ({'유전성' if d_info['genetic_disease'] == 1 else '비유전성'})")
                 print(f"{'─' * 60}")
-                query = build_user_query(breed, d_name, d_info)
+                query = build_user_query(breed, d_name, d_info, breed_ko, breed_size, food_trans)
                 print(f"[Query] {query}")
                 result = call_llm(client, system_prompt, few_shot_messages, query, args.model)
                 print(f"\n[Response]\n{result}")
         else:
-            query = build_user_query(breed, disease_name, disease_info)
+            query = build_user_query(breed, disease_name, disease_info, breed_ko, breed_size, food_trans)
             print(f"\n[Query] {query}")
             result = call_llm(client, system_prompt, few_shot_messages, query, args.model)
             print(f"\n[Response]\n{result}")
