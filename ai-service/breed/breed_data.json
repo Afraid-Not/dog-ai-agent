@@ -1,0 +1,722 @@
+[
+  {
+    "synset": "n02085620",
+    "en": "Chihuahua",
+    "ko": "치와와",
+    "size": "소형"
+  },
+  {
+    "synset": "n02085782",
+    "en": "Japanese Spaniel",
+    "ko": "재패니즈 스패니얼",
+    "size": "소형"
+  },
+  {
+    "synset": "n02085936",
+    "en": "Maltese Dog",
+    "ko": "말티즈",
+    "size": "소형"
+  },
+  {
+    "synset": "n02086079",
+    "en": "Pekinese",
+    "ko": "페키니즈",
+    "size": "소형"
+  },
+  {
+    "synset": "n02086240",
+    "en": "Shih Tzu",
+    "ko": "시츄",
+    "size": "소형"
+  },
+  {
+    "synset": "n02086646",
+    "en": "Blenheim Spaniel",
+    "ko": "블레님 스패니얼",
+    "size": "소형"
+  },
+  {
+    "synset": "n02086910",
+    "en": "Papillon",
+    "ko": "파피용",
+    "size": "소형"
+  },
+  {
+    "synset": "n02087046",
+    "en": "Toy Terrier",
+    "ko": "토이 테리어",
+    "size": "소형"
+  },
+  {
+    "synset": "n02087394",
+    "en": "Rhodesian Ridgeback",
+    "ko": "로디지안 리지백",
+    "size": "대형"
+  },
+  {
+    "synset": "n02088094",
+    "en": "Afghan Hound",
+    "ko": "아프간 하운드",
+    "size": "대형"
+  },
+  {
+    "synset": "n02088238",
+    "en": "Basset",
+    "ko": "바셋 하운드",
+    "size": "중형"
+  },
+  {
+    "synset": "n02088364",
+    "en": "Beagle",
+    "ko": "비글",
+    "size": "중형"
+  },
+  {
+    "synset": "n02088466",
+    "en": "Bloodhound",
+    "ko": "블러드하운드",
+    "size": "대형"
+  },
+  {
+    "synset": "n02088632",
+    "en": "Bluetick",
+    "ko": "블루틱 쿤하운드",
+    "size": "중형"
+  },
+  {
+    "synset": "n02089078",
+    "en": "Black And Tan Coonhound",
+    "ko": "블랙앤탄 쿤하운드",
+    "size": "대형"
+  },
+  {
+    "synset": "n02089867",
+    "en": "Walker Hound",
+    "ko": "워커 하운드",
+    "size": "대형"
+  },
+  {
+    "synset": "n02089973",
+    "en": "English Foxhound",
+    "ko": "잉글리시 폭스하운드",
+    "size": "대형"
+  },
+  {
+    "synset": "n02090379",
+    "en": "Redbone",
+    "ko": "레드본 쿤하운드",
+    "size": "대형"
+  },
+  {
+    "synset": "n02090622",
+    "en": "Borzoi",
+    "ko": "보르조이",
+    "size": "대형"
+  },
+  {
+    "synset": "n02090721",
+    "en": "Irish Wolfhound",
+    "ko": "아이리시 울프하운드",
+    "size": "대형"
+  },
+  {
+    "synset": "n02091032",
+    "en": "Italian Greyhound",
+    "ko": "이탈리안 그레이하운드",
+    "size": "소형"
+  },
+  {
+    "synset": "n02091134",
+    "en": "Whippet",
+    "ko": "휘핏",
+    "size": "중형"
+  },
+  {
+    "synset": "n02091244",
+    "en": "Ibizan Hound",
+    "ko": "이비잔 하운드",
+    "size": "중형"
+  },
+  {
+    "synset": "n02091467",
+    "en": "Norwegian Elkhound",
+    "ko": "노르웨이 엘크하운드",
+    "size": "중형"
+  },
+  {
+    "synset": "n02091635",
+    "en": "Otterhound",
+    "ko": "오터하운드",
+    "size": "대형"
+  },
+  {
+    "synset": "n02091831",
+    "en": "Saluki",
+    "ko": "살루키",
+    "size": "대형"
+  },
+  {
+    "synset": "n02092002",
+    "en": "Scottish Deerhound",
+    "ko": "스코티시 디어하운드",
+    "size": "대형"
+  },
+  {
+    "synset": "n02092339",
+    "en": "Weimaraner",
+    "ko": "바이마라너",
+    "size": "대형"
+  },
+  {
+    "synset": "n02093256",
+    "en": "Staffordshire Bullterrier",
+    "ko": "스태퍼드셔 불테리어",
+    "size": "중형"
+  },
+  {
+    "synset": "n02093428",
+    "en": "American Staffordshire Terrier",
+    "ko": "아메리칸 스태퍼드셔 테리어",
+    "size": "중형"
+  },
+  {
+    "synset": "n02093647",
+    "en": "Bedlington Terrier",
+    "ko": "베들링턴 테리어",
+    "size": "소형"
+  },
+  {
+    "synset": "n02093754",
+    "en": "Border Terrier",
+    "ko": "보더 테리어",
+    "size": "소형"
+  },
+  {
+    "synset": "n02093859",
+    "en": "Kerry Blue Terrier",
+    "ko": "케리 블루 테리어",
+    "size": "중형"
+  },
+  {
+    "synset": "n02093991",
+    "en": "Irish Terrier",
+    "ko": "아이리시 테리어",
+    "size": "중형"
+  },
+  {
+    "synset": "n02094114",
+    "en": "Norfolk Terrier",
+    "ko": "노포크 테리어",
+    "size": "소형"
+  },
+  {
+    "synset": "n02094258",
+    "en": "Norwich Terrier",
+    "ko": "노리치 테리어",
+    "size": "소형"
+  },
+  {
+    "synset": "n02094433",
+    "en": "Yorkshire Terrier",
+    "ko": "요크셔 테리어",
+    "size": "소형"
+  },
+  {
+    "synset": "n02095314",
+    "en": "Wire Haired Fox Terrier",
+    "ko": "와이어헤어드 폭스 테리어",
+    "size": "소형"
+  },
+  {
+    "synset": "n02095570",
+    "en": "Lakeland Terrier",
+    "ko": "레이클랜드 테리어",
+    "size": "소형"
+  },
+  {
+    "synset": "n02095889",
+    "en": "Sealyham Terrier",
+    "ko": "실리엄 테리어",
+    "size": "소형"
+  },
+  {
+    "synset": "n02096051",
+    "en": "Airedale",
+    "ko": "에어데일 테리어",
+    "size": "대형"
+  },
+  {
+    "synset": "n02096177",
+    "en": "Cairn",
+    "ko": "케언 테리어",
+    "size": "소형"
+  },
+  {
+    "synset": "n02096294",
+    "en": "Australian Terrier",
+    "ko": "오스트레일리안 테리어",
+    "size": "소형"
+  },
+  {
+    "synset": "n02096437",
+    "en": "Dandie Dinmont",
+    "ko": "댄디 딘몬트 테리어",
+    "size": "소형"
+  },
+  {
+    "synset": "n02096585",
+    "en": "Boston Bull",
+    "ko": "보스턴 테리어",
+    "size": "소형"
+  },
+  {
+    "synset": "n02097047",
+    "en": "Miniature Schnauzer",
+    "ko": "미니어처 슈나우저",
+    "size": "소형"
+  },
+  {
+    "synset": "n02097130",
+    "en": "Giant Schnauzer",
+    "ko": "자이언트 슈나우저",
+    "size": "대형"
+  },
+  {
+    "synset": "n02097209",
+    "en": "Standard Schnauzer",
+    "ko": "스탠다드 슈나우저",
+    "size": "중형"
+  },
+  {
+    "synset": "n02097298",
+    "en": "Scotch Terrier",
+    "ko": "스코티시 테리어",
+    "size": "소형"
+  },
+  {
+    "synset": "n02097474",
+    "en": "Tibetan Terrier",
+    "ko": "티베탄 테리어",
+    "size": "중형"
+  },
+  {
+    "synset": "n02097658",
+    "en": "Silky Terrier",
+    "ko": "실키 테리어",
+    "size": "소형"
+  },
+  {
+    "synset": "n02098105",
+    "en": "Soft Coated Wheaten Terrier",
+    "ko": "소프트코티드 휘튼 테리어",
+    "size": "중형"
+  },
+  {
+    "synset": "n02098286",
+    "en": "West Highland White Terrier",
+    "ko": "웨스트 하이랜드 화이트 테리어",
+    "size": "소형"
+  },
+  {
+    "synset": "n02098413",
+    "en": "Lhasa",
+    "ko": "라사압소",
+    "size": "소형"
+  },
+  {
+    "synset": "n02099267",
+    "en": "Flat Coated Retriever",
+    "ko": "플랫코티드 리트리버",
+    "size": "대형"
+  },
+  {
+    "synset": "n02099429",
+    "en": "Curly Coated Retriever",
+    "ko": "컬리코티드 리트리버",
+    "size": "대형"
+  },
+  {
+    "synset": "n02099601",
+    "en": "Golden Retriever",
+    "ko": "골든 리트리버",
+    "size": "대형"
+  },
+  {
+    "synset": "n02099712",
+    "en": "Labrador Retriever",
+    "ko": "래브라도 리트리버",
+    "size": "대형"
+  },
+  {
+    "synset": "n02099849",
+    "en": "Chesapeake Bay Retriever",
+    "ko": "체서피크 베이 리트리버",
+    "size": "대형"
+  },
+  {
+    "synset": "n02100236",
+    "en": "German Short Haired Pointer",
+    "ko": "저먼 쇼트헤어드 포인터",
+    "size": "대형"
+  },
+  {
+    "synset": "n02100583",
+    "en": "Vizsla",
+    "ko": "비즐라",
+    "size": "대형"
+  },
+  {
+    "synset": "n02100735",
+    "en": "English Setter",
+    "ko": "잉글리시 세터",
+    "size": "대형"
+  },
+  {
+    "synset": "n02100877",
+    "en": "Irish Setter",
+    "ko": "아이리시 세터",
+    "size": "대형"
+  },
+  {
+    "synset": "n02101006",
+    "en": "Gordon Setter",
+    "ko": "고든 세터",
+    "size": "대형"
+  },
+  {
+    "synset": "n02101388",
+    "en": "Brittany Spaniel",
+    "ko": "브리타니 스패니얼",
+    "size": "중형"
+  },
+  {
+    "synset": "n02101556",
+    "en": "Clumber",
+    "ko": "클럼버 스패니얼",
+    "size": "중형"
+  },
+  {
+    "synset": "n02102040",
+    "en": "English Springer",
+    "ko": "잉글리시 스프링거 스패니얼",
+    "size": "중형"
+  },
+  {
+    "synset": "n02102177",
+    "en": "Welsh Springer Spaniel",
+    "ko": "웰시 스프링거 스패니얼",
+    "size": "중형"
+  },
+  {
+    "synset": "n02102318",
+    "en": "Cocker Spaniel",
+    "ko": "코커 스패니얼",
+    "size": "중형"
+  },
+  {
+    "synset": "n02102480",
+    "en": "Sussex Spaniel",
+    "ko": "서섹스 스패니얼",
+    "size": "중형"
+  },
+  {
+    "synset": "n02102973",
+    "en": "Irish Water Spaniel",
+    "ko": "아이리시 워터 스패니얼",
+    "size": "중형"
+  },
+  {
+    "synset": "n02104029",
+    "en": "Kuvasz",
+    "ko": "쿠바스",
+    "size": "대형"
+  },
+  {
+    "synset": "n02104365",
+    "en": "Schipperke",
+    "ko": "스키퍼키",
+    "size": "소형"
+  },
+  {
+    "synset": "n02105056",
+    "en": "Groenendael",
+    "ko": "벨지안 그로넨달",
+    "size": "대형"
+  },
+  {
+    "synset": "n02105162",
+    "en": "Malinois",
+    "ko": "벨지안 말리노이즈",
+    "size": "대형"
+  },
+  {
+    "synset": "n02105251",
+    "en": "Briard",
+    "ko": "브리아드",
+    "size": "대형"
+  },
+  {
+    "synset": "n02105412",
+    "en": "Kelpie",
+    "ko": "오스트레일리안 켈피",
+    "size": "중형"
+  },
+  {
+    "synset": "n02105505",
+    "en": "Komondor",
+    "ko": "코몬도르",
+    "size": "대형"
+  },
+  {
+    "synset": "n02105641",
+    "en": "Old English Sheepdog",
+    "ko": "올드 잉글리시 쉽독",
+    "size": "대형"
+  },
+  {
+    "synset": "n02105855",
+    "en": "Shetland Sheepdog",
+    "ko": "셔틀랜드 쉽독",
+    "size": "소형"
+  },
+  {
+    "synset": "n02106030",
+    "en": "Collie",
+    "ko": "콜리",
+    "size": "대형"
+  },
+  {
+    "synset": "n02106166",
+    "en": "Border Collie",
+    "ko": "보더 콜리",
+    "size": "중형"
+  },
+  {
+    "synset": "n02106382",
+    "en": "Bouvier Des Flandres",
+    "ko": "부비에 데 플랑드르",
+    "size": "대형"
+  },
+  {
+    "synset": "n02106550",
+    "en": "Rottweiler",
+    "ko": "로트와일러",
+    "size": "대형"
+  },
+  {
+    "synset": "n02106662",
+    "en": "German Shepherd",
+    "ko": "저먼 셰퍼드",
+    "size": "대형"
+  },
+  {
+    "synset": "n02107142",
+    "en": "Doberman",
+    "ko": "도베르만",
+    "size": "대형"
+  },
+  {
+    "synset": "n02107312",
+    "en": "Miniature Pinscher",
+    "ko": "미니어처 핀셔",
+    "size": "소형"
+  },
+  {
+    "synset": "n02107574",
+    "en": "Greater Swiss Mountain Dog",
+    "ko": "그레이터 스위스 마운틴 독",
+    "size": "대형"
+  },
+  {
+    "synset": "n02107683",
+    "en": "Bernese Mountain Dog",
+    "ko": "버니즈 마운틴 독",
+    "size": "대형"
+  },
+  {
+    "synset": "n02107908",
+    "en": "Appenzeller",
+    "ko": "아펜젤러",
+    "size": "중형"
+  },
+  {
+    "synset": "n02108000",
+    "en": "Entlebucher",
+    "ko": "엔틀레부허",
+    "size": "중형"
+  },
+  {
+    "synset": "n02108089",
+    "en": "Boxer",
+    "ko": "복서",
+    "size": "대형"
+  },
+  {
+    "synset": "n02108422",
+    "en": "Bull Mastiff",
+    "ko": "불 마스티프",
+    "size": "대형"
+  },
+  {
+    "synset": "n02108551",
+    "en": "Tibetan Mastiff",
+    "ko": "티베탄 마스티프",
+    "size": "대형"
+  },
+  {
+    "synset": "n02108915",
+    "en": "French Bulldog",
+    "ko": "프렌치 불독",
+    "size": "소형"
+  },
+  {
+    "synset": "n02109047",
+    "en": "Great Dane",
+    "ko": "그레이트 데인",
+    "size": "대형"
+  },
+  {
+    "synset": "n02109525",
+    "en": "Saint Bernard",
+    "ko": "세인트 버나드",
+    "size": "대형"
+  },
+  {
+    "synset": "n02109961",
+    "en": "Eskimo Dog",
+    "ko": "아메리칸 에스키모 독",
+    "size": "중형"
+  },
+  {
+    "synset": "n02110063",
+    "en": "Malamute",
+    "ko": "알래스칸 말라뮤트",
+    "size": "대형"
+  },
+  {
+    "synset": "n02110185",
+    "en": "Siberian Husky",
+    "ko": "시베리안 허스키",
+    "size": "대형"
+  },
+  {
+    "synset": "n02110627",
+    "en": "Affenpinscher",
+    "ko": "아펜핀셔",
+    "size": "소형"
+  },
+  {
+    "synset": "n02110806",
+    "en": "Basenji",
+    "ko": "바센지",
+    "size": "소형"
+  },
+  {
+    "synset": "n02110958",
+    "en": "Pug",
+    "ko": "퍼그",
+    "size": "소형"
+  },
+  {
+    "synset": "n02111129",
+    "en": "Leonberg",
+    "ko": "레온베르거",
+    "size": "대형"
+  },
+  {
+    "synset": "n02111277",
+    "en": "Newfoundland",
+    "ko": "뉴펀들랜드",
+    "size": "대형"
+  },
+  {
+    "synset": "n02111500",
+    "en": "Great Pyrenees",
+    "ko": "그레이트 피레니즈",
+    "size": "대형"
+  },
+  {
+    "synset": "n02111889",
+    "en": "Samoyed",
+    "ko": "사모예드",
+    "size": "대형"
+  },
+  {
+    "synset": "n02112018",
+    "en": "Pomeranian",
+    "ko": "포메라니안",
+    "size": "소형"
+  },
+  {
+    "synset": "n02112137",
+    "en": "Chow",
+    "ko": "차우차우",
+    "size": "중형"
+  },
+  {
+    "synset": "n02112350",
+    "en": "Keeshond",
+    "ko": "키스혼드",
+    "size": "중형"
+  },
+  {
+    "synset": "n02112706",
+    "en": "Brabancon Griffon",
+    "ko": "브라반숑 그리펀",
+    "size": "소형"
+  },
+  {
+    "synset": "n02113023",
+    "en": "Pembroke",
+    "ko": "펨브록 웰시 코기",
+    "size": "소형"
+  },
+  {
+    "synset": "n02113186",
+    "en": "Cardigan",
+    "ko": "카디건 웰시 코기",
+    "size": "소형"
+  },
+  {
+    "synset": "n02113624",
+    "en": "Toy Poodle",
+    "ko": "토이 푸들",
+    "size": "소형"
+  },
+  {
+    "synset": "n02113712",
+    "en": "Miniature Poodle",
+    "ko": "미니어처 푸들",
+    "size": "소형"
+  },
+  {
+    "synset": "n02113799",
+    "en": "Standard Poodle",
+    "ko": "스탠다드 푸들",
+    "size": "대형"
+  },
+  {
+    "synset": "n02113978",
+    "en": "Mexican Hairless",
+    "ko": "멕시칸 헤어리스",
+    "size": "중형"
+  },
+  {
+    "synset": "n02115641",
+    "en": "Dingo",
+    "ko": "딩고",
+    "size": "중형"
+  },
+  {
+    "synset": "n02115913",
+    "en": "Dhole",
+    "ko": "도울",
+    "size": "중형"
+  },
+  {
+    "synset": "n02116738",
+    "en": "African Hunting Dog",
+    "ko": "아프리카 사냥개",
+    "size": "중형"
+  }
+]
